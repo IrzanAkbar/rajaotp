@@ -81,7 +81,7 @@ export default function CTA() {
             variants={itemVariants}
             className="text-xs sm:text-sm text-slate-400 mt-6 sm:mt-8"
           >
-            ✓ Gratis • ✓ Cepat • ✓ Aman
+            ✓ Murah • ✓ Cepat • ✓ Aman
           </motion.p>
         </div>
       </motion.div>
