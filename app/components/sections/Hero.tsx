@@ -25,12 +25,12 @@ export default function Hero() {
   };
 
   return (
-    <section className="min-h-screen flex items-center justify-center pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-black via-slate-900 to-slate-950">
+    <section className="relative flex items-center justify-center pt-20 pb-16 sm:pt-28 sm:pb-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-black via-slate-900 to-slate-950">
       <motion.div
         variants={containerVariants}
         initial="hidden"
         animate="visible"
-        className="max-w-4xl mx-auto text-center"
+        className="relative z-10 max-w-4xl mx-auto text-center w-full"
       >
         {/* Badge */}
         <motion.div variants={itemVariants} className="mb-8">
@@ -43,7 +43,7 @@ export default function Hero() {
         {/* Main Headline */}
         <motion.h1
           variants={itemVariants}
-          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight"
+          className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 sm:mb-6 leading-tight"
         >
           RajaOTP — Layanan OTP Profesional
         </motion.h1>
@@ -51,7 +51,7 @@ export default function Hero() {
         {/* Subheadline */}
         <motion.p
           variants={itemVariants}
-          className="text-lg sm:text-xl text-slate-300 mb-6 max-w-2xl mx-auto leading-relaxed"
+          className="text-base sm:text-lg md:text-xl text-slate-300 mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed"
         >
           RajaOTP dirancang untuk kebutuhan OTP dengan sistem yang rapi dan aman.
         </motion.p>
@@ -77,21 +77,21 @@ export default function Hero() {
           </div>
         </motion.div>
 
-        {/* CTA Button - Hard Reset */}
-        <div className="mt-8 w-full px-4">
-          <div className="mx-auto flex w-full max-w-md flex-col gap-4 sm:flex-row sm:justify-center">
+        {/* CTA Button - Z-Index Fix */}
+        <div className="relative z-20 mt-6 sm:mt-8 w-full">
+          <div className="mx-auto flex w-full flex-col gap-3 sm:gap-4 sm:flex-row sm:justify-center sm:max-w-md">
             <a
               href="https://t.me/rajaotpoffc_bot"
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full rounded-xl bg-yellow-400 px-6 py-3 text-center font-semibold text-black transition-all duration-300 hover:bg-yellow-500 sm:w-auto"
+              className="relative z-20 block w-full rounded-lg bg-yellow-400 px-5 py-3 sm:px-6 sm:py-3 text-center font-semibold text-black text-sm sm:text-base transition-all duration-300 hover:bg-yellow-500 cursor-pointer sm:w-auto"
             >
               Buka Bot Telegram
             </a>
 
             <a
               href="#features"
-              className="block w-full rounded-xl border border-yellow-400/40 px-6 py-3 text-center font-semibold text-yellow-400 transition-all duration-300 hover:border-yellow-400 hover:bg-yellow-400/5 sm:w-auto"
+              className="relative z-20 block w-full rounded-lg border border-yellow-400/40 px-5 py-3 sm:px-6 sm:py-3 text-center font-semibold text-yellow-400 text-sm sm:text-base transition-all duration-300 hover:border-yellow-400 hover:bg-yellow-400/5 cursor-pointer sm:w-auto"
             >
               Pelajari Lebih Lanjut
             </a>

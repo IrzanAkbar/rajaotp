@@ -24,7 +24,7 @@ export default function About() {
   };
 
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-slate-950 border-t border-slate-800">
+    <section className="py-12 sm:py-16 md:py-20 px-4 sm:px-6 lg:px-8 bg-slate-950 border-t border-slate-800">
       <motion.div
         variants={containerVariants}
         initial="hidden"
@@ -33,66 +33,66 @@ export default function About() {
         className="max-w-4xl mx-auto"
       >
         {/* Section Title */}
-        <motion.div variants={itemVariants} className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+        <motion.div variants={itemVariants} className="text-center mb-10 sm:mb-12">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-3 sm:mb-4">
             Tentang <span className="text-yellow-400">RajaOTP</span>
           </h2>
           <div className="w-16 h-1 bg-gradient-to-r from-yellow-400 to-yellow-500 mx-auto rounded-full"></div>
         </motion.div>
 
         {/* Content */}
-        <div className="grid md:grid-cols-2 gap-8 items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 items-center">
           {/* Left Content */}
-          <motion.div variants={itemVariants} className="space-y-6">
-            <p className="text-slate-300 text-lg leading-relaxed">
+          <motion.div variants={itemVariants} className="space-y-4 sm:space-y-6">
+            <p className="text-slate-300 text-sm sm:text-base md:text-lg leading-relaxed">
                   RajaOTP dirancang untuk kebutuhan OTP yang mengutamakan kestabilan dan kerapihan sistem.
             </p>
 
-            <p className="text-slate-300 text-lg leading-relaxed">
+            <p className="text-slate-300 text-sm sm:text-base md:text-lg leading-relaxed">
                   Layanan ini dibangun agar proses verifikasi menjadi sederhana, dapat dipercaya, dan mudah diintegrasikan. Fokus utama adalah menjaga keandalan operasional dan perlindungan data secara profesional.
             </p>
 
-            <div className="space-y-4 pt-4">
+            <div className="space-y-3 sm:space-y-4 pt-2 sm:pt-4">
               <motion.div
                 variants={itemVariants}
-                className="flex items-start gap-3"
+                className="flex items-start gap-2 sm:gap-3"
               >
-                <Zap className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+                <Zap className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400 flex-shrink-0 mt-0.5 sm:mt-1" />
                 <div>
-                  <h4 className="font-semibold text-white mb-1">Kecepatan Instan</h4>
-                  <p className="text-slate-400 text-sm">Dapatkan OTP dalam hitungan detik tanpa penundaan</p>
+                  <h4 className="font-semibold text-white text-sm sm:text-base mb-1">Kecepatan Instan</h4>
+                  <p className="text-slate-400 text-xs sm:text-sm">Dapatkan OTP dalam hitungan detik tanpa penundaan</p>
                 </div>
               </motion.div>
 
               <motion.div
                 variants={itemVariants}
-                className="flex items-start gap-3"
+                className="flex items-start gap-2 sm:gap-3"
               >
-                <Lock className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+                <Lock className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400 flex-shrink-0 mt-0.5 sm:mt-1" />
                 <div>
-                  <h4 className="font-semibold text-white mb-1">Sistem Aman</h4>
-                  <p className="text-slate-400 text-sm">Enkripsi tingkat tinggi untuk melindungi data Anda</p>
+                  <h4 className="font-semibold text-white text-sm sm:text-base mb-1">Sistem Aman</h4>
+                  <p className="text-slate-400 text-xs sm:text-sm">Enkripsi tingkat tinggi untuk melindungi data Anda</p>
                 </div>
               </motion.div>
 
               <motion.div
                 variants={itemVariants}
-                className="flex items-start gap-3"
+                className="flex items-start gap-2 sm:gap-3"
               >
-                <Check className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+                <Check className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400 flex-shrink-0 mt-0.5 sm:mt-1" />
                 <div>
-                  <h4 className="font-semibold text-white mb-1">Mudah Digunakan</h4>
-                  <p className="text-slate-400 text-sm">Interface intuitif yang dapat diakses siapa saja</p>
+                  <h4 className="font-semibold text-white text-sm sm:text-base mb-1">Mudah Digunakan</h4>
+                  <p className="text-slate-400 text-xs sm:text-sm">Interface intuitif yang dapat diakses siapa saja</p>
                 </div>
               </motion.div>
                   <motion.div
                     variants={itemVariants}
-                    className="flex items-start gap-3"
+                    className="flex items-start gap-2 sm:gap-3"
                   >
-                    <Target className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+                    <Target className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400 flex-shrink-0 mt-0.5 sm:mt-1" />
                     <div>
-                      <h4 className="font-semibold text-white mb-1">Pendekatan Profesional</h4>
-                      <p className="text-slate-400 text-sm">Praktik operasional yang rapi dan terukur, bukan solusi sementara</p>
+                      <h4 className="font-semibold text-white text-sm sm:text-base mb-1">Pendekatan Profesional</h4>
+                      <p className="text-slate-400 text-xs sm:text-sm">Praktik operasional yang rapi dan terukur, bukan solusi sementara</p>
                     </div>
                   </motion.div>
             </div>

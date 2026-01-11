@@ -41,7 +41,7 @@ export default function HowItWorks() {
   ];
 
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-black border-t border-slate-800">
+    <section className="py-12 sm:py-16 md:py-20 px-4 sm:px-6 lg:px-8 bg-black border-t border-slate-800">
       <motion.div
         variants={containerVariants}
         initial="hidden"
@@ -50,40 +50,40 @@ export default function HowItWorks() {
         className="max-w-5xl mx-auto"
       >
         {/* Section Title */}
-        <motion.div variants={itemVariants} className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+        <motion.div variants={itemVariants} className="text-center mb-12 sm:mb-16">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-3 sm:mb-4">
             Cara Kerja <span className="text-yellow-400">RajaOTP</span>
           </h2>
-          <p className="text-slate-400 text-lg">
+          <p className="text-slate-400 text-sm sm:text-base md:text-lg">
             Proses sederhana dalam 3 langkah mudah
           </p>
           <div className="w-16 h-1 bg-gradient-to-r from-yellow-400 to-yellow-500 mx-auto rounded-full mt-4"></div>
         </motion.div>
 
         {/* Steps */}
-        <div className="space-y-8">
+        <div className="space-y-8 sm:space-y-10">
           {steps.map((step, index) => (
             <motion.div
               key={index}
               variants={itemVariants}
-              className="flex gap-6 md:gap-8 items-start"
+              className="flex gap-4 sm:gap-6 md:gap-8 items-start"
             >
               {/* Step Number Circle */}
               <motion.div
                 whileHover={{ scale: 1.1 }}
-                className="flex-shrink-0 w-20 h-20 md:w-24 md:h-24 rounded-full bg-gradient-to-br from-yellow-400 to-yellow-500 flex items-center justify-center"
+                className="flex-shrink-0 w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 rounded-full bg-gradient-to-br from-yellow-400 to-yellow-500 flex items-center justify-center"
               >
-                <span className="text-2xl md:text-3xl font-bold text-black">
+                <span className="text-lg sm:text-2xl md:text-3xl font-bold text-black">
                   {step.number}
                 </span>
               </motion.div>
 
               {/* Content */}
-              <div className="flex-grow pt-2 md:pt-3">
-                <h3 className="text-2xl md:text-3xl font-bold text-white mb-3">
+              <div className="flex-grow pt-1 sm:pt-2 md:pt-3">
+                <h3 className="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-2 sm:mb-3">
                   {step.title}
                 </h3>
-                <p className="text-slate-400 text-lg leading-relaxed">
+                <p className="text-slate-400 text-sm sm:text-base md:text-lg leading-relaxed">
                   {step.description}
                 </p>
               </div>
@@ -102,7 +102,7 @@ export default function HowItWorks() {
         {/* Bottom CTA */}
         <motion.div
           variants={itemVariants}
-          className="mt-16 text-center flex justify-center"
+          className="mt-12 sm:mt-14 md:mt-16 text-center flex justify-center"
         >
           <motion.a
             href="https://t.me/rajaotpoffc_bot"
@@ -110,7 +110,7 @@ export default function HowItWorks() {
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-black font-bold rounded-lg text-base sm:text-lg shadow-lg hover:shadow-2xl transition-all duration-300"
+            className="w-full sm:w-auto px-5 sm:px-6 md:px-8 py-2 sm:py-3 md:py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-black font-bold rounded-lg text-sm sm:text-base md:text-lg shadow-lg hover:shadow-2xl transition-all duration-300"
           >
             Mulai Sekarang →
           </motion.a>

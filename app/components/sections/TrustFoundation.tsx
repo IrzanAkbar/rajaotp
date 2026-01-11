@@ -48,7 +48,7 @@ export default function TrustFoundation() {
   ];
 
   return (
-    <section className="py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-950 to-black border-t border-slate-800">
+    <section className="py-12 sm:py-14 md:py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-950 to-black border-t border-slate-800">
       <motion.div
         variants={containerVariants}
         initial="hidden"
@@ -57,16 +57,16 @@ export default function TrustFoundation() {
         className="max-w-6xl mx-auto"
       >
         {/* Grid of Trust Points */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
           {trustPoints.map((point, index) => (
             <motion.div
               key={index}
               variants={itemVariants}
               whileHover={{ y: -4, transition: { duration: 0.2 } }}
-              className="group bg-slate-900/40 border border-slate-800 hover:border-yellow-600/20 rounded-xl p-5 transition-all duration-300"
+              className="group bg-slate-900/40 border border-slate-800 hover:border-yellow-600/20 rounded-lg sm:rounded-xl p-3 sm:p-4 md:p-5 transition-all duration-300"
             >
-              <point.icon className="w-6 h-6 text-yellow-400 group-hover:scale-110 transition-transform duration-300" />
-              <h3 className="text-sm font-bold text-white mb-2">{point.title}</h3>
+              <point.icon className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400 group-hover:scale-110 transition-transform duration-300" />
+              <h3 className="text-xs sm:text-sm font-bold text-white mb-1 sm:mb-2">{point.title}</h3>
               <p className="text-xs text-slate-400 leading-relaxed">
                 {point.description}
               </p>

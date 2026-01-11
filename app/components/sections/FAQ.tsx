@@ -64,7 +64,7 @@ export default function FAQ() {
   };
 
   return (
-    <section id="faq" className="py-20 px-4 sm:px-6 lg:px-8 bg-black border-t border-slate-800">
+    <section id="faq" className="py-12 sm:py-16 md:py-20 px-4 sm:px-6 lg:px-8 bg-black border-t border-slate-800">
       <motion.div
         variants={containerVariants}
         initial="hidden"
@@ -73,38 +73,38 @@ export default function FAQ() {
         className="max-w-3xl mx-auto"
       >
         {/* Section Title */}
-        <motion.div variants={itemVariants} className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+        <motion.div variants={itemVariants} className="text-center mb-12 sm:mb-16">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-3 sm:mb-4">
             Pertanyaan <span className="text-yellow-400">Umum</span>
           </h2>
-          <p className="text-slate-400 text-lg">
+          <p className="text-slate-400 text-sm sm:text-base md:text-lg">
             Jawaban atas pertanyaan yang paling sering ditanyakan
           </p>
           <div className="w-16 h-1 bg-gradient-to-r from-yellow-400 to-yellow-500 rounded-full mt-4 mx-auto"></div>
         </motion.div>
 
         {/* FAQ Accordion */}
-        <div className="space-y-4">
+        <div className="space-y-3 sm:space-y-4">
           {faqs.map((faq, index) => (
             <motion.div
               key={index}
               variants={itemVariants}
-              className="bg-slate-900/50 border border-slate-800 rounded-2xl overflow-hidden hover:border-yellow-600/30 transition-all duration-300"
+              className="bg-slate-900/50 border border-slate-800 rounded-lg sm:rounded-2xl overflow-hidden hover:border-yellow-600/30 transition-all duration-300"
             >
               {/* Question Button */}
               <motion.button
                 onClick={() => setOpenIndex(openIndex === index ? null : index)}
                 whileHover={{ backgroundColor: 'rgba(15, 23, 42, 0.8)' }}
-                className="w-full text-left p-6 flex items-center justify-between gap-4"
+                className="w-full text-left p-4 sm:p-5 md:p-6 flex items-center justify-between gap-3 sm:gap-4"
               >
-                <h3 className="text-lg font-semibold text-white">{faq.question}</h3>
+                <h3 className="text-sm sm:text-base md:text-lg font-semibold text-white">{faq.question}</h3>
                 <motion.div
                   animate={{ rotate: openIndex === index ? 180 : 0 }}
                   transition={{ duration: 0.3 }}
                   className="flex-shrink-0"
                 >
                   <svg
-                    className="w-6 h-6 text-yellow-400"
+                    className="w-5 h-5 sm:w-6 sm:h-6 text-yellow-400"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -129,7 +129,7 @@ export default function FAQ() {
                     transition={{ duration: 0.3 }}
                     className="overflow-hidden border-t border-slate-700"
                   >
-                    <p className="p-6 text-slate-300 leading-relaxed">{faq.answer}</p>
+                    <p className="p-4 sm:p-5 md:p-6 text-slate-300 text-sm sm:text-base leading-relaxed">{faq.answer}</p>
                   </motion.div>
                 )}
               </AnimatePresence>
@@ -138,8 +138,8 @@ export default function FAQ() {
         </div>
 
         {/* Bottom CTA */}
-        <motion.div variants={itemVariants} className="mt-12 text-center">
-          <p className="text-slate-400 mb-6">
+        <motion.div variants={itemVariants} className="mt-10 sm:mt-12 text-center">
+          <p className="text-slate-400 text-sm sm:text-base mb-4 sm:mb-6">
             Masih ada pertanyaan? Hubungi tim support kami.
           </p>
           <motion.a
@@ -148,7 +148,7 @@ export default function FAQ() {
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="inline-block px-8 py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-black font-bold rounded-lg shadow-lg hover:shadow-xl transition-all"
+            className="inline-block px-5 sm:px-6 md:px-8 py-2.5 sm:py-3 md:py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-black font-bold rounded-lg text-sm sm:text-base md:text-lg shadow-lg hover:shadow-xl transition-all"
           >
             Chat dengan Support →
           </motion.a>
