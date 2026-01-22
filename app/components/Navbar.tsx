@@ -45,6 +45,9 @@ export default function Navbar() {
             <Link href="/#faq" className="text-slate-300 hover:text-yellow-400 transition-colors text-sm font-medium">
               FAQ
             </Link>
+            <Link href="/admin/login" className="text-slate-300 hover:text-yellow-400 transition-colors text-sm font-medium">
+              Admin
+            </Link>
             <motion.a
               href="https://t.me/rajaotpoffc_bot"
               target="_blank"
@@ -114,6 +117,13 @@ export default function Navbar() {
               onClick={() => setIsOpen(false)}
             >
               FAQ
+            </Link>
+            <Link
+              href="/admin/login"
+              className="block text-slate-300 hover:text-yellow-400 transition-colors text-sm font-medium px-2 py-2"
+              onClick={() => setIsOpen(false)}
+            >
+              Admin
             </Link>
             <a
               href="https://t.me/rajaotpoffc_bot"

@@ -1,0 +1,4274 @@
+[
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010616451730870",
+    "user": {
+      "id": 8257143070,
+      "name": "D'JAVIER. Formless",
+      "username": "mdercy"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3621,
+    "fee_admin": 621,
+    "margin": 500,
+    "provider_fee": 121,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-06 22:45:17",
+    "success_at": "2026-01-06 22:47:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010600513231043",
+    "user": {
+      "id": 8043326055,
+      "name": "Mayra,",
+      "username": "Pensnulis"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3595,
+    "fee_admin": 595,
+    "margin": 500,
+    "provider_fee": 95,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 06:51:32",
+    "success_at": "2026-01-07 06:53:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010703374231121",
+    "user": {
+      "id": 8503730831,
+      "name": "FEFEK JULE",
+      "username": "FEFEK JULE"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20703,
+    "fee_admin": 703,
+    "margin": 500,
+    "provider_fee": 203,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 09:37:42",
+    "success_at": "2026-01-07 09:39:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010704120331143",
+    "user": {
+      "id": 5556547190,
+      "name": "NazHire, chely",
+      "username": "chelyycell"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10627,
+    "fee_admin": 627,
+    "margin": 500,
+    "provider_fee": 127,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 10:12:03",
+    "success_at": "2026-01-07 10:16:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010709193831618",
+    "user": {
+      "id": 7992125126,
+      "name": "Aluna | acc wtb",
+      "username": "reefp"
+    },
+    "amount_user": 5800,
+    "amount_paid": 6402,
+    "fee_admin": 602,
+    "margin": 500,
+    "provider_fee": 102,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 15:19:38",
+    "success_at": "2026-01-07 15:21:11",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010709204531622",
+    "user": {
+      "id": 7594812008,
+      "name": "P",
+      "username": "iPixter"
+    },
+    "amount_user": 4000,
+    "amount_paid": 4562,
+    "fee_admin": 562,
+    "margin": 500,
+    "provider_fee": 62,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 15:20:45",
+    "success_at": "2026-01-07 15:22:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010709435731662",
+    "user": {
+      "id": 7594812008,
+      "name": "P",
+      "username": "iPixter"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2574,
+    "fee_admin": 574,
+    "margin": 500,
+    "provider_fee": 74,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 15:43:57",
+    "success_at": "2026-01-07 15:45:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010710072031699",
+    "user": {
+      "id": 8425796341,
+      "name": "reaa",
+      "username": "tarreea"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5564,
+    "fee_admin": 564,
+    "margin": 500,
+    "provider_fee": 64,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 16:07:20",
+    "success_at": "2026-01-07 16:09:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010711415931850",
+    "user": {
+      "id": 8582965863,
+      "name": "bieysha. 🩷🥝",
+      "username": "cacwao"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2541,
+    "fee_admin": 541,
+    "margin": 500,
+    "provider_fee": 41,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 17:41:59",
+    "success_at": "2026-01-07 17:44:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010713241931976",
+    "user": {
+      "id": 7406923592,
+      "name": "Nick.",
+      "username": "mazshiho"
+    },
+    "amount_user": 7740,
+    "amount_paid": 8376,
+    "fee_admin": 636,
+    "margin": 500,
+    "provider_fee": 136,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 19:24:19",
+    "success_at": "2026-01-07 19:26:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010715481832188",
+    "user": {
+      "id": 8029967845,
+      "name": "Abyan A.",
+      "username": "abyyaan"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5596,
+    "fee_admin": 596,
+    "margin": 500,
+    "provider_fee": 96,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07 21:48:18",
+    "success_at": "2026-01-07 21:52:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010801340832397",
+    "user": {
+      "id": 7406923592,
+      "name": "k.",
+      "username": "mazshiho"
+    },
+    "amount_user": 3460,
+    "amount_paid": 4000,
+    "fee_admin": 540,
+    "margin": 500,
+    "provider_fee": 40,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 07:34:08",
+    "success_at": "2026-01-08 07:36:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010802591432449",
+    "user": {
+      "id": 7975244837,
+      "name": "𝖬𝖺𝗌𝖿𝖺",
+      "username": "lMasfa"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3561,
+    "fee_admin": 561,
+    "margin": 500,
+    "provider_fee": 61,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 08:59:14",
+    "success_at": "2026-01-08 09:00:12",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010803013832452",
+    "user": {
+      "id": 7406923592,
+      "name": "k.",
+      "username": "mazshiho"
+    },
+    "amount_user": 2100,
+    "amount_paid": 2702,
+    "fee_admin": 602,
+    "margin": 500,
+    "provider_fee": 102,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 09:01:38",
+    "success_at": "2026-01-08 09:03:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010804133632492",
+    "user": {
+      "id": 7380120614,
+      "name": "sipaa,",
+      "username": "dampieng"
+    },
+    "amount_user": 2700,
+    "amount_paid": 3269,
+    "fee_admin": 569,
+    "margin": 500,
+    "provider_fee": 69,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 10:13:36",
+    "success_at": "2026-01-08 10:16:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010804152232495",
+    "user": {
+      "id": 7258373031,
+      "name": "lala",
+      "username": "koncoT"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5595,
+    "fee_admin": 595,
+    "margin": 500,
+    "provider_fee": 95,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 10:15:22",
+    "success_at": "2026-01-08 10:18:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010804264432501",
+    "user": {
+      "id": 6781216389,
+      "name": "catufly. slowresp",
+      "username": "sehpuh"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5550,
+    "fee_admin": 550,
+    "margin": 500,
+    "provider_fee": 50,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 10:26:44",
+    "success_at": "2026-01-08 10:29:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010805221832545",
+    "user": {
+      "id": 8555271199,
+      "name": "Victoria George.",
+      "username": "latitno"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3612,
+    "fee_admin": 612,
+    "margin": 500,
+    "provider_fee": 112,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 11:22:18",
+    "success_at": "2026-01-08 11:24:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010805441632565",
+    "user": {
+      "id": 7605048931,
+      "name": "𝐒héllaa",
+      "username": "khimwonyoung"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5602,
+    "fee_admin": 602,
+    "margin": 500,
+    "provider_fee": 102,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 11:44:16",
+    "success_at": "2026-01-08 11:46:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010805535432573",
+    "user": {
+      "id": 7605048931,
+      "name": "𝐒héllaa",
+      "username": "khimwonyoung"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5630,
+    "fee_admin": 630,
+    "margin": 500,
+    "provider_fee": 130,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 11:53:54",
+    "success_at": "2026-01-08 11:55:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010807355232687",
+    "user": {
+      "id": 7406923592,
+      "name": "k.",
+      "username": "mazshiho"
+    },
+    "amount_user": 7650,
+    "amount_paid": 8294,
+    "fee_admin": 644,
+    "margin": 500,
+    "provider_fee": 144,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 13:35:52",
+    "success_at": "2026-01-08 13:37:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010807471632704",
+    "user": {
+      "id": 8456828639,
+      "name": "astro",
+      "username": "astroidee"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 13:47:16",
+    "success_at": "2026-01-08 13:49:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010808241032760",
+    "user": {
+      "id": 8061116792,
+      "name": "੭‌ ♫ anashea, off ♡̶",
+      "username": "kimminnjeongn"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3561,
+    "fee_admin": 561,
+    "margin": 500,
+    "provider_fee": 61,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 14:24:10",
+    "success_at": "2026-01-08 14:26:11",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010809591332888",
+    "user": {
+      "id": 8456828639,
+      "name": "astro",
+      "username": "astroidee"
+    },
+    "amount_user": 2800,
+    "amount_paid": 3388,
+    "fee_admin": 588,
+    "margin": 500,
+    "provider_fee": 88,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 15:59:13",
+    "success_at": "2026-01-08 16:01:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010810443032935",
+    "user": {
+      "id": 8531493530,
+      "name": "edeǟ",
+      "username": "lambayann"
+    },
+    "amount_user": 2700,
+    "amount_paid": 3313,
+    "fee_admin": 613,
+    "margin": 500,
+    "provider_fee": 113,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 16:44:30",
+    "success_at": "2026-01-08 16:46:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010811273032991",
+    "user": {
+      "id": 8531493530,
+      "name": "edeǟ",
+      "username": "lambayann"
+    },
+    "amount_user": 3100,
+    "amount_paid": 3712,
+    "fee_admin": 612,
+    "margin": 500,
+    "provider_fee": 112,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 17:27:30",
+    "success_at": "2026-01-08 17:29:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010813244833140",
+    "user": {
+      "id": 7042372264,
+      "name": "@ ________ jean lvy 🤎",
+      "username": "aarms"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 19:24:48",
+    "success_at": "2026-01-08 19:26:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010815120133281",
+    "user": {
+      "id": 6622241476,
+      "name": "Jonathan. @jyacobs",
+      "username": "bfernaI"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10624,
+    "fee_admin": 624,
+    "margin": 500,
+    "provider_fee": 124,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 21:12:01",
+    "success_at": "2026-01-08 21:14:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010815193833293",
+    "user": {
+      "id": 6622241476,
+      "name": "Jonathan. @jyacobs",
+      "username": "bfernaI"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5593,
+    "fee_admin": 593,
+    "margin": 500,
+    "provider_fee": 93,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08 21:19:38",
+    "success_at": "2026-01-08 21:21:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010818303933401",
+    "user": {
+      "id": 1222106050,
+      "name": "yora terbang",
+      "username": "Lojtso"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5598,
+    "fee_admin": 598,
+    "margin": 500,
+    "provider_fee": 98,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 00:30:39",
+    "success_at": "2026-01-09 00:33:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010905073533668",
+    "user": {
+      "id": 6325520563,
+      "name": "amryllis",
+      "username": "nothinkon"
+    },
+    "amount_user": 7000,
+    "amount_paid": 7651,
+    "fee_admin": 651,
+    "margin": 500,
+    "provider_fee": 151,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 11:07:35",
+    "success_at": "2026-01-09 11:08:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010905085533671",
+    "user": {
+      "id": 6325520563,
+      "name": "amryllis",
+      "username": "nothinkon"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5559,
+    "fee_admin": 559,
+    "margin": 500,
+    "provider_fee": 59,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 11:08:55",
+    "success_at": "2026-01-09 11:10:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010906062533733",
+    "user": {
+      "id": 6657717946,
+      "name": "ᴀᴇᴛʜᴇʀ",
+      "username": "Cowliek"
+    },
+    "amount_user": 8000,
+    "amount_paid": 8579,
+    "fee_admin": 579,
+    "margin": 500,
+    "provider_fee": 79,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 12:06:25",
+    "success_at": "2026-01-09 12:07:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010906082233736",
+    "user": {
+      "id": 6435510151,
+      "name": "Orphee Thorne",
+      "username": "hkulu"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10620,
+    "fee_admin": 620,
+    "margin": 500,
+    "provider_fee": 120,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 12:08:22",
+    "success_at": "2026-01-09 12:10:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010906304733755",
+    "user": {
+      "id": 8471921021,
+      "name": "hyung @kenandaa",
+      "username": "fhenti"
+    },
+    "amount_user": 2500,
+    "amount_paid": 3054,
+    "fee_admin": 554,
+    "margin": 500,
+    "provider_fee": 54,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 12:30:47",
+    "success_at": "2026-01-09 12:33:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010907114733798",
+    "user": {
+      "id": 8061116792,
+      "name": "੭‌ ♫ anashea, open ♡̶",
+      "username": "kimminnjeongn"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20708,
+    "fee_admin": 708,
+    "margin": 500,
+    "provider_fee": 208,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 13:11:47",
+    "success_at": "2026-01-09 13:13:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010909584334039",
+    "user": {
+      "id": 8041124564,
+      "name": "Öchi Audyna",
+      "username": "maejhor"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5615,
+    "fee_admin": 615,
+    "margin": 500,
+    "provider_fee": 115,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 15:58:43",
+    "success_at": "2026-01-09 16:00:16",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010911505434265",
+    "user": {
+      "id": 7790424478,
+      "name": "#camintsie, 𝓜elting' kéyy！",
+      "username": "inspizrasi"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3568,
+    "fee_admin": 568,
+    "margin": 500,
+    "provider_fee": 68,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 17:50:54",
+    "success_at": "2026-01-09 17:54:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010912022734281",
+    "user": {
+      "id": 6804270608,
+      "name": "𝑴𝒂𝒓𝒄𝒖𝒔 | DMS+",
+      "username": "Pohonx"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5591,
+    "fee_admin": 591,
+    "margin": 500,
+    "provider_fee": 91,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 18:02:27",
+    "success_at": "2026-01-09 18:04:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010916251434657",
+    "user": {
+      "id": 7513621137,
+      "name": "𝐄𝐀𝐑𝐋 - 𝗢𝗣𝗘𝗡 𝗙𝗔𝗦𝗧 , 24 𝐉𝐀𝐌𝐌",
+      "username": "oukashiundji"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3612,
+    "fee_admin": 612,
+    "margin": 500,
+    "provider_fee": 112,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 22:25:14",
+    "success_at": "2026-01-09 22:27:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010916355234670",
+    "user": {
+      "id": 7513621137,
+      "name": "𝐄𝐀𝐑𝐋 - 𝗢𝗣𝗘𝗡 𝗙𝗔𝗦𝗧 , 24 𝐉𝐀𝐌𝐌",
+      "username": "oukashiundji"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2600,
+    "fee_admin": 600,
+    "margin": 500,
+    "provider_fee": 100,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 22:35:52",
+    "success_at": "2026-01-09 22:37:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010916485834682",
+    "user": {
+      "id": 7446020167,
+      "name": "Vermouth",
+      "username": "Sxvermouth"
+    },
+    "amount_user": 2700,
+    "amount_paid": 3280,
+    "fee_admin": 580,
+    "margin": 500,
+    "provider_fee": 80,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 22:48:58",
+    "success_at": "2026-01-09 22:53:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010916535534689",
+    "user": {
+      "id": 8141703066,
+      "name": "αen .",
+      "username": "flueary"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3537,
+    "fee_admin": 537,
+    "margin": 500,
+    "provider_fee": 37,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09 22:53:55",
+    "success_at": "2026-01-09 22:55:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026010922441834802",
+    "user": {
+      "id": 8138949147,
+      "name": "Raee Huxley",
+      "username": "rydericco"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5620,
+    "fee_admin": 620,
+    "margin": 500,
+    "provider_fee": 120,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 04:44:18",
+    "success_at": "2026-01-10 04:47:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011002582934933",
+    "user": {
+      "id": 6980256334,
+      "name": "Clyra, moelune.",
+      "username": "taiap"
+    },
+    "amount_user": 2350,
+    "amount_paid": 2962,
+    "fee_admin": 612,
+    "margin": 500,
+    "provider_fee": 112,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 08:58:29",
+    "success_at": "2026-01-10 09:00:17",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011003000034935",
+    "user": {
+      "id": 6952979180,
+      "name": "exel CLOSER TURU",
+      "username": "brianyent"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5582,
+    "fee_admin": 582,
+    "margin": 500,
+    "provider_fee": 82,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 09:00:00",
+    "success_at": "2026-01-10 09:01:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011003552234971",
+    "user": {
+      "id": 7807933979,
+      "name": "- B ᯓᡣ𐭩 | slow resp",
+      "username": "koxlase"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3608,
+    "fee_admin": 608,
+    "margin": 500,
+    "provider_fee": 108,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 09:55:22",
+    "success_at": "2026-01-10 09:58:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011008485635391",
+    "user": {
+      "id": 6949530831,
+      "name": "gahar",
+      "username": "climsax"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10633,
+    "fee_admin": 633,
+    "margin": 500,
+    "provider_fee": 133,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 14:48:56",
+    "success_at": "2026-01-10 14:50:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011009032535421",
+    "user": {
+      "id": 8091226967,
+      "name": "Candice",
+      "username": "pucupuyu"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10589,
+    "fee_admin": 589,
+    "margin": 500,
+    "provider_fee": 89,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 15:03:25",
+    "success_at": "2026-01-10 15:05:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011010291135578",
+    "user": {
+      "id": 6980256334,
+      "name": "Clyra, moelune.",
+      "username": "taiap"
+    },
+    "amount_user": 4000,
+    "amount_paid": 4619,
+    "fee_admin": 619,
+    "margin": 500,
+    "provider_fee": 119,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 16:29:11",
+    "success_at": "2026-01-10 16:30:14",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011010374235591",
+    "user": {
+      "id": 7806735836,
+      "name": "sasa norush",
+      "username": "matreR"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5617,
+    "fee_admin": 617,
+    "margin": 500,
+    "provider_fee": 117,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 16:37:42",
+    "success_at": "2026-01-10 16:39:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011010482935605",
+    "user": {
+      "id": 7737822771,
+      "name": "Kael.",
+      "username": "valkyw"
+    },
+    "amount_user": 2100,
+    "amount_paid": 2677,
+    "fee_admin": 577,
+    "margin": 500,
+    "provider_fee": 77,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 16:48:29",
+    "success_at": "2026-01-10 16:50:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011016553336116",
+    "user": {
+      "id": 7257324262,
+      "name": "El.",
+      "username": "ellysnao"
+    },
+    "amount_user": 6000,
+    "amount_paid": 6596,
+    "fee_admin": 596,
+    "margin": 500,
+    "provider_fee": 96,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10 22:55:33",
+    "success_at": "2026-01-10 22:57:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011018441036159",
+    "user": {
+      "id": 7628217828,
+      "name": "nannn",
+      "username": "nann_2101"
+    },
+    "amount_user": 2750,
+    "amount_paid": 3305,
+    "fee_admin": 555,
+    "margin": 500,
+    "provider_fee": 55,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 00:44:10",
+    "success_at": "2026-01-11 00:46:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011105311636554",
+    "user": {
+      "id": 1400464889,
+      "name": "𖹭᪲ ֹ 𝓐.𝗿𝘂𝗹𝗹𝗮 ⊹◝ #kepo pl DNI. RIDI 5O NOKTEL",
+      "username": "sqtudent"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5628,
+    "fee_admin": 628,
+    "margin": 500,
+    "provider_fee": 128,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 11:31:16",
+    "success_at": "2026-01-11 11:34:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011105341036557",
+    "user": {
+      "id": 7771208612,
+      "name": "Novera Feiyun",
+      "username": "Swatamista"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5580,
+    "fee_admin": 580,
+    "margin": 500,
+    "provider_fee": 80,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 11:34:10",
+    "success_at": "2026-01-11 11:35:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011105492236572",
+    "user": {
+      "id": 7771208612,
+      "name": "Novera Feiyun",
+      "username": "Swatamista"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2576,
+    "fee_admin": 576,
+    "margin": 500,
+    "provider_fee": 76,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 11:49:22",
+    "success_at": "2026-01-11 11:50:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011105544936584",
+    "user": {
+      "id": 7729782100,
+      "name": "Private",
+      "username": "Private_prh"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10641,
+    "fee_admin": 641,
+    "margin": 500,
+    "provider_fee": 141,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 11:54:49",
+    "success_at": "2026-01-11 11:56:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011106111836604",
+    "user": {
+      "id": 7729782100,
+      "name": "Private",
+      "username": "Private_prh"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5630,
+    "fee_admin": 630,
+    "margin": 500,
+    "provider_fee": 130,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 12:11:18",
+    "success_at": "2026-01-11 12:12:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011106121936607",
+    "user": {
+      "id": 7619465341,
+      "name": "Hubaibah",
+      "username": "alexnibangg"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10656,
+    "fee_admin": 656,
+    "margin": 500,
+    "provider_fee": 156,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 12:12:19",
+    "success_at": "2026-01-11 12:13:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011106205236615",
+    "user": {
+      "id": 8471921021,
+      "name": "michies, hyung",
+      "username": "fhenti"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2596,
+    "fee_admin": 596,
+    "margin": 500,
+    "provider_fee": 96,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 12:20:52",
+    "success_at": "2026-01-11 12:23:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011106495236661",
+    "user": {
+      "id": 7380120614,
+      "name": "sipaa,",
+      "username": "dampieng"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2552,
+    "fee_admin": 552,
+    "margin": 500,
+    "provider_fee": 52,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 12:49:52",
+    "success_at": "2026-01-11 12:51:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011107574236772",
+    "user": {
+      "id": 7412829557,
+      "name": "Xayahla",
+      "username": "Ankira33"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5620,
+    "fee_admin": 620,
+    "margin": 500,
+    "provider_fee": 120,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 13:57:42",
+    "success_at": "2026-01-11 14:02:13",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011108395836878",
+    "user": {
+      "id": 7711797239,
+      "name": "Lilac",
+      "username": "pammulang"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10646,
+    "fee_admin": 646,
+    "margin": 500,
+    "provider_fee": 146,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 14:39:58",
+    "success_at": "2026-01-11 14:43:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011109113536943",
+    "user": {
+      "id": 5180254036,
+      "name": "PNG",
+      "username": "pangeranO"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10662,
+    "fee_admin": 662,
+    "margin": 500,
+    "provider_fee": 162,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 15:11:35",
+    "success_at": "2026-01-11 15:13:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011112053237274",
+    "user": {
+      "id": 7729782100,
+      "name": "Private",
+      "username": "Private_prh"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5595,
+    "fee_admin": 595,
+    "margin": 500,
+    "provider_fee": 95,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 18:05:32",
+    "success_at": "2026-01-11 18:07:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011112125337288",
+    "user": {
+      "id": 8445908700,
+      "name": "De Vriës Esmee",
+      "username": "muinus"
+    },
+    "amount_user": 2300,
+    "amount_paid": 2890,
+    "fee_admin": 590,
+    "margin": 500,
+    "provider_fee": 90,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 18:12:53",
+    "success_at": "2026-01-11 18:15:11",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011113171837431",
+    "user": {
+      "id": 6035583628,
+      "name": "☙. vanca",
+      "username": "mBaeksongmin"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 19:17:18",
+    "success_at": "2026-01-11 19:18:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011115552237866",
+    "user": {
+      "id": 7842094557,
+      "name": "imeyll",
+      "username": "imeyll"
+    },
+    "amount_user": 2100,
+    "amount_paid": 2717,
+    "fee_admin": 617,
+    "margin": 500,
+    "provider_fee": 117,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11 21:55:22",
+    "success_at": "2026-01-11 21:56:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011118321937993",
+    "user": {
+      "id": 8270814927,
+      "name": "ceciliaa💌",
+      "username": "cechili"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5583,
+    "fee_admin": 583,
+    "margin": 500,
+    "provider_fee": 83,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 00:32:19",
+    "success_at": "2026-01-12 00:33:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011118355837998",
+    "user": {
+      "id": 7157151823,
+      "name": "Aksa.",
+      "username": "generrate"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5594,
+    "fee_admin": 594,
+    "margin": 500,
+    "provider_fee": 94,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 00:35:58",
+    "success_at": "2026-01-12 00:37:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011119061538014",
+    "user": {
+      "id": 8592535657,
+      "name": "Xlenn. Ropek —",
+      "username": "XleenR"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2582,
+    "fee_admin": 582,
+    "margin": 500,
+    "provider_fee": 82,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 01:06:15",
+    "success_at": "2026-01-12 01:11:02",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011122434538064",
+    "user": {
+      "id": 6657717946,
+      "name": "James.",
+      "username": "Cowliek"
+    },
+    "amount_user": 6000,
+    "amount_paid": 6611,
+    "fee_admin": 611,
+    "margin": 500,
+    "provider_fee": 111,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 04:43:45",
+    "success_at": "2026-01-12 04:45:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011201423938150",
+    "user": {
+      "id": 7777019341,
+      "name": "𝖊lang 𝕯 #𝐂'𝖙𝖊𝖝𝖆𝖗",
+      "username": "Rujauk"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5611,
+    "fee_admin": 611,
+    "margin": 500,
+    "provider_fee": 111,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 07:42:39",
+    "success_at": "2026-01-12 07:45:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011203144038218",
+    "user": {
+      "id": 7767284622,
+      "name": "Kalula suka mie ayam🍝",
+      "username": "kalulacanttipp"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3539,
+    "fee_admin": 539,
+    "margin": 500,
+    "provider_fee": 39,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 09:14:40",
+    "success_at": "2026-01-12 09:16:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011203333038234",
+    "user": {
+      "id": 8125984352,
+      "name": "Jo. #CoolHolic",
+      "username": "vPelerp"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5553,
+    "fee_admin": 553,
+    "margin": 500,
+    "provider_fee": 53,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 09:33:30",
+    "success_at": "2026-01-12 09:34:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011203471938245",
+    "user": {
+      "id": 8125984352,
+      "name": "Jo. #CoolHolic",
+      "username": "vPelerp"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5582,
+    "fee_admin": 582,
+    "margin": 500,
+    "provider_fee": 82,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 09:47:19",
+    "success_at": "2026-01-12 09:48:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011211341239053",
+    "user": {
+      "id": 7548769348,
+      "name": "n",
+      "username": "pnkyzz"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5558,
+    "fee_admin": 558,
+    "margin": 500,
+    "provider_fee": 58,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 17:34:13",
+    "success_at": "2026-01-12 17:36:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011213300539250",
+    "user": {
+      "id": 6443063405,
+      "name": "arin wtb",
+      "username": "bukanrayel"
+    },
+    "amount_user": 2300,
+    "amount_paid": 2894,
+    "fee_admin": 594,
+    "margin": 500,
+    "provider_fee": 94,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 19:30:05",
+    "success_at": "2026-01-12 19:33:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011214561939416",
+    "user": {
+      "id": 8168671369,
+      "name": "#🏝️ Miley |",
+      "username": "miliery"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3593,
+    "fee_admin": 593,
+    "margin": 500,
+    "provider_fee": 93,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 20:56:19",
+    "success_at": "2026-01-12 20:58:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011215430039492",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20687,
+    "fee_admin": 687,
+    "margin": 500,
+    "provider_fee": 187,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12 21:43:00",
+    "success_at": "2026-01-12 21:44:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011302431339873",
+    "user": {
+      "id": 7128191715,
+      "name": "爻 Zifa",
+      "username": "Jewellejry"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5567,
+    "fee_admin": 567,
+    "margin": 500,
+    "provider_fee": 67,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 08:43:13",
+    "success_at": "2026-01-13 08:44:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011302435339875",
+    "user": {
+      "id": 7215789686,
+      "name": "Caysa, jgn promote ke rc",
+      "username": "Kembars"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3567,
+    "fee_admin": 567,
+    "margin": 500,
+    "provider_fee": 67,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 08:43:53",
+    "success_at": "2026-01-13 08:46:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011303314239900",
+    "user": {
+      "id": 7729782100,
+      "name": "Rangga story",
+      "username": "RANGGA_STORY"
+    },
+    "amount_user": 15000,
+    "amount_paid": 15622,
+    "fee_admin": 622,
+    "margin": 500,
+    "provider_fee": 122,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 09:31:42",
+    "success_at": "2026-01-13 09:33:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305074139974",
+    "user": {
+      "id": 7681160341,
+      "name": "Mr.W",
+      "username": "papinyaelbarrack"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30787,
+    "fee_admin": 787,
+    "margin": 500,
+    "provider_fee": 287,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:07:41",
+    "success_at": "2026-01-13 11:09:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305102639980",
+    "user": {
+      "id": 1450870900,
+      "name": "eL",
+      "username": "ohmydeepp"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30730,
+    "fee_admin": 730,
+    "margin": 500,
+    "provider_fee": 230,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:10:26",
+    "success_at": "2026-01-13 11:11:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305100239978",
+    "user": {
+      "id": 6081858546,
+      "name": "bubuy",
+      "username": "millshk"
+    },
+    "amount_user": 25000,
+    "amount_paid": 25757,
+    "fee_admin": 757,
+    "margin": 500,
+    "provider_fee": 257,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:10:02",
+    "success_at": "2026-01-13 11:12:11",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305123639986",
+    "user": {
+      "id": 1476391421,
+      "name": "𝙁𝙊𝙍𝙎𝘼𝙆𝙀𝙉",
+      "username": "forsakenn21"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30739,
+    "fee_admin": 739,
+    "margin": 500,
+    "provider_fee": 239,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:12:36",
+    "success_at": "2026-01-13 11:14:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305165439996",
+    "user": {
+      "id": 7724637745,
+      "name": "Lysaa",
+      "username": "digusah"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5574,
+    "fee_admin": 574,
+    "margin": 500,
+    "provider_fee": 74,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:16:54",
+    "success_at": "2026-01-13 11:18:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305594540058",
+    "user": {
+      "id": 6415737163,
+      "name": "ethrnl",
+      "username": "ethernal22"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10595,
+    "fee_admin": 595,
+    "margin": 500,
+    "provider_fee": 95,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:59:45",
+    "success_at": "2026-01-13 12:03:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011305581940055",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30790,
+    "fee_admin": 790,
+    "margin": 500,
+    "provider_fee": 290,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 11:58:19",
+    "success_at": "2026-01-13 12:03:13",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011306264740092",
+    "user": {
+      "id": 1924238509,
+      "name": "LALA",
+      "username": "maylocute7"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20702,
+    "fee_admin": 702,
+    "margin": 500,
+    "provider_fee": 202,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 12:26:47",
+    "success_at": "2026-01-13 12:28:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011313151540674",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30742,
+    "fee_admin": 742,
+    "margin": 500,
+    "provider_fee": 242,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 19:15:15",
+    "success_at": "2026-01-13 19:16:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011316162840979",
+    "user": {
+      "id": 7412829557,
+      "name": "Konteenebake",
+      "username": "Nationn6"
+    },
+    "amount_user": 3500,
+    "amount_paid": 4064,
+    "fee_admin": 564,
+    "margin": 500,
+    "provider_fee": 64,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 22:16:28",
+    "success_at": "2026-01-13 22:18:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011316425041013",
+    "user": {
+      "id": 1512651088,
+      "name": "𝒞resheavn - Gishka",
+      "username": "pettyt"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10612,
+    "fee_admin": 612,
+    "margin": 500,
+    "provider_fee": 112,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13 22:42:50",
+    "success_at": "2026-01-13 22:44:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011401055641204",
+    "user": {
+      "id": 8215705876,
+      "name": "Nymera El'vre B'ssia",
+      "username": "BaeJooHyiunL"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5580,
+    "fee_admin": 580,
+    "margin": 500,
+    "provider_fee": 80,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 07:05:56",
+    "success_at": "2026-01-14 07:09:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011408584241586",
+    "user": {
+      "id": 7790424478,
+      "name": "#camintsie, 𝓜elting' kéyy！",
+      "username": "inspizrasi"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2563,
+    "fee_admin": 563,
+    "margin": 500,
+    "provider_fee": 63,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 14:58:42",
+    "success_at": "2026-01-14 15:00:15",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011409184541614",
+    "user": {
+      "id": 7217698726,
+      "name": "Stalin~",
+      "username": "YawYawi1000"
+    },
+    "amount_user": 30000,
+    "amount_paid": 30809,
+    "fee_admin": 809,
+    "margin": 500,
+    "provider_fee": 309,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 15:18:45",
+    "success_at": "2026-01-14 15:21:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011409410141645",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20656,
+    "fee_admin": 656,
+    "margin": 500,
+    "provider_fee": 156,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 15:41:01",
+    "success_at": "2026-01-14 15:42:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011411084541742",
+    "user": {
+      "id": 6657717946,
+      "name": "James.",
+      "username": "Cowliek"
+    },
+    "amount_user": 4000,
+    "amount_paid": 4564,
+    "fee_admin": 564,
+    "margin": 500,
+    "provider_fee": 64,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 17:08:45",
+    "success_at": "2026-01-14 17:10:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011413131141922",
+    "user": {
+      "id": 8524034968,
+      "name": "nj",
+      "username": "djardjit"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10599,
+    "fee_admin": 599,
+    "margin": 500,
+    "provider_fee": 99,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 19:13:11",
+    "success_at": "2026-01-14 19:16:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011413502441975",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10616,
+    "fee_admin": 616,
+    "margin": 500,
+    "provider_fee": 116,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 19:50:24",
+    "success_at": "2026-01-14 19:52:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011413532141985",
+    "user": {
+      "id": 8565783743,
+      "name": "amayi, c! ♡",
+      "username": "finreshyt"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10607,
+    "fee_admin": 607,
+    "margin": 500,
+    "provider_fee": 107,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 19:53:21",
+    "success_at": "2026-01-14 19:55:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011415392242127",
+    "user": {
+      "id": 6086339276,
+      "name": "ghuf",
+      "username": "Seraphiells"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14 21:39:22",
+    "success_at": "2026-01-14 21:42:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011400525842354",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Stamberr"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2549,
+    "fee_admin": 549,
+    "margin": 500,
+    "provider_fee": 49,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 06:52:58",
+    "success_at": "2026-01-15 06:54:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011502160142383",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Bomaoy"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2556,
+    "fee_admin": 556,
+    "margin": 500,
+    "provider_fee": 56,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 08:16:01",
+    "success_at": "2026-01-15 08:18:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011503145042398",
+    "user": {
+      "id": 7132408057,
+      "name": "Gisel",
+      "username": "tirujs"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10644,
+    "fee_admin": 644,
+    "margin": 500,
+    "provider_fee": 144,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 09:14:50",
+    "success_at": "2026-01-15 09:19:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011504335242429",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Bomaoy"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2583,
+    "fee_admin": 583,
+    "margin": 500,
+    "provider_fee": 83,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 10:33:52",
+    "success_at": "2026-01-15 10:35:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011509140142652",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10602,
+    "fee_admin": 602,
+    "margin": 500,
+    "provider_fee": 102,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 15:14:01",
+    "success_at": "2026-01-15 15:15:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011510024642714",
+    "user": {
+      "id": 8182526973,
+      "name": "vodka.",
+      "username": "snewu"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5549,
+    "fee_admin": 549,
+    "margin": 500,
+    "provider_fee": 49,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 16:02:46",
+    "success_at": "2026-01-15 16:04:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011510542842761",
+    "user": {
+      "id": 8182526973,
+      "name": "vodka.",
+      "username": "snewu"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2571,
+    "fee_admin": 571,
+    "margin": 500,
+    "provider_fee": 71,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15 16:54:28",
+    "success_at": "2026-01-15 16:56:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011522333143303",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Bomaoy"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2555,
+    "fee_admin": 555,
+    "margin": 500,
+    "provider_fee": 55,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 04:33:31",
+    "success_at": "2026-01-16 04:35:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011500262343330",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Stamberr"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2610,
+    "fee_admin": 610,
+    "margin": 500,
+    "provider_fee": 110,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 06:26:23",
+    "success_at": "2026-01-16 06:28:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011602205043413",
+    "user": {
+      "id": 6907314889,
+      "name": "Jean. | diluar",
+      "username": "Jeachoo"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10659,
+    "fee_admin": 659,
+    "margin": 500,
+    "provider_fee": 159,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 08:20:50",
+    "success_at": "2026-01-16 08:22:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011603124143477",
+    "user": {
+      "id": 7132408057,
+      "name": "Gisel",
+      "username": "tirujs"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2573,
+    "fee_admin": 573,
+    "margin": 500,
+    "provider_fee": 73,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 09:12:41",
+    "success_at": "2026-01-16 09:17:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011604552343574",
+    "user": {
+      "id": 8289694567,
+      "name": "Arkana",
+      "username": "arkamna"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5584,
+    "fee_admin": 584,
+    "margin": 500,
+    "provider_fee": 84,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 10:55:23",
+    "success_at": "2026-01-16 10:58:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011609082943837",
+    "user": {
+      "id": 7894158262,
+      "name": "§əfťïãņ⚡",
+      "username": "Monsterseftian"
+    },
+    "amount_user": 9000,
+    "amount_paid": 9604,
+    "fee_admin": 604,
+    "margin": 500,
+    "provider_fee": 104,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 15:08:29",
+    "success_at": "2026-01-16 15:10:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011610244743932",
+    "user": {
+      "id": 7380120614,
+      "name": "sipaa,",
+      "username": "dampieng"
+    },
+    "amount_user": 2400,
+    "amount_paid": 2983,
+    "fee_admin": 583,
+    "margin": 500,
+    "provider_fee": 83,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 16:24:47",
+    "success_at": "2026-01-16 16:27:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011612065044054",
+    "user": {
+      "id": 7077483498,
+      "name": "nevv's",
+      "username": "nevliinn"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3560,
+    "fee_admin": 560,
+    "margin": 500,
+    "provider_fee": 60,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 18:06:50",
+    "success_at": "2026-01-16 18:08:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011612110444063",
+    "user": {
+      "id": 7077483498,
+      "name": "nevv's",
+      "username": "nevliinn"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2582,
+    "fee_admin": 582,
+    "margin": 500,
+    "provider_fee": 82,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16 18:11:04",
+    "success_at": "2026-01-16 18:12:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011619491544831",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10629,
+    "fee_admin": 629,
+    "margin": 500,
+    "provider_fee": 129,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 01:49:15",
+    "success_at": "2026-01-17 01:50:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011705523345184",
+    "user": {
+      "id": 7380523729,
+      "name": "dev@mqverick.lol",
+      "username": "mqvericck"
+    },
+    "amount_user": 4000,
+    "amount_paid": 4599,
+    "fee_admin": 599,
+    "margin": 500,
+    "provider_fee": 99,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 11:52:33",
+    "success_at": "2026-01-17 11:54:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011705561245190",
+    "user": {
+      "id": 6145715509,
+      "name": "off cas hp, ISI RNK ANJ",
+      "username": "meontor"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 11:56:12",
+    "success_at": "2026-01-17 11:58:09",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011706493245245",
+    "user": {
+      "id": 8041124564,
+      "name": "Öchi Audyna",
+      "username": "maejhor"
+    },
+    "amount_user": 4734,
+    "amount_paid": 5342,
+    "fee_admin": 608,
+    "margin": 500,
+    "provider_fee": 108,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 12:49:32",
+    "success_at": "2026-01-17 12:51:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011707395245334",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5627,
+    "fee_admin": 627,
+    "margin": 500,
+    "provider_fee": 127,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 13:39:52",
+    "success_at": "2026-01-17 13:44:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011712041345721",
+    "user": {
+      "id": 6086339276,
+      "name": "ghuf",
+      "username": "Seraphiells"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2591,
+    "fee_admin": 591,
+    "margin": 500,
+    "provider_fee": 91,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 18:04:13",
+    "success_at": "2026-01-17 18:05:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011712473745795",
+    "user": {
+      "id": 7290838040,
+      "name": "J",
+      "username": "jFrauders"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5615,
+    "fee_admin": 615,
+    "margin": 500,
+    "provider_fee": 115,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17 18:47:37",
+    "success_at": "2026-01-17 18:50:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011802112146399",
+    "user": {
+      "id": 2088659489,
+      "name": "Sierène. @rSeksi",
+      "username": "rSeksi"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5573,
+    "fee_admin": 573,
+    "margin": 500,
+    "provider_fee": 73,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 08:11:21",
+    "success_at": "2026-01-18 08:12:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011802385046416",
+    "user": {
+      "id": 5886301313,
+      "name": "𝓒aelira W. #𝐂almin𝐀𝐫𝐞𝐚",
+      "username": "takhtaD"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5628,
+    "fee_admin": 628,
+    "margin": 500,
+    "provider_fee": 128,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 08:38:50",
+    "success_at": "2026-01-18 08:40:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011803552246520",
+    "user": {
+      "id": 5886301313,
+      "name": "𝓒aelira W. #𝐂almin𝐀𝐫𝐞𝐚",
+      "username": "takhtaD"
+    },
+    "amount_user": 4950,
+    "amount_paid": 5543,
+    "fee_admin": 593,
+    "margin": 500,
+    "provider_fee": 93,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 09:55:22",
+    "success_at": "2026-01-18 09:57:02",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011807532346878",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2528,
+    "fee_admin": 528,
+    "margin": 500,
+    "provider_fee": 28,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 13:53:23",
+    "success_at": "2026-01-18 13:55:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011808462946951",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5606,
+    "fee_admin": 606,
+    "margin": 500,
+    "provider_fee": 106,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 14:46:29",
+    "success_at": "2026-01-18 14:47:02",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011809220547019",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "amount_user": 2000,
+    "amount_paid": 2598,
+    "fee_admin": 598,
+    "margin": 500,
+    "provider_fee": 98,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 15:22:05",
+    "success_at": "2026-01-18 15:24:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011810052347092",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 15000,
+    "amount_paid": 15664,
+    "fee_admin": 664,
+    "margin": 500,
+    "provider_fee": 164,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 16:05:23",
+    "success_at": "2026-01-18 16:07:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011812454547344",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10599,
+    "fee_admin": 599,
+    "margin": 500,
+    "provider_fee": 99,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 18:45:45",
+    "success_at": "2026-01-18 18:47:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011813083047383",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 8000,
+    "amount_paid": 8599,
+    "fee_admin": 599,
+    "margin": 500,
+    "provider_fee": 99,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 19:08:30",
+    "success_at": "2026-01-18 19:10:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011813415147422",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 9000,
+    "amount_paid": 9653,
+    "fee_admin": 653,
+    "margin": 500,
+    "provider_fee": 153,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 19:41:51",
+    "success_at": "2026-01-18 19:43:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011815354447635",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "amount_user": 26000,
+    "amount_paid": 26782,
+    "fee_admin": 782,
+    "margin": 500,
+    "provider_fee": 282,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 21:35:44",
+    "success_at": "2026-01-18 21:37:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011816383447742",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 8000,
+    "amount_paid": 8636,
+    "fee_admin": 636,
+    "margin": 500,
+    "provider_fee": 136,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18 22:38:34",
+    "success_at": "2026-01-18 22:40:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011901530348051",
+    "user": {
+      "id": 1296960849,
+      "name": "stellarive’s fast!",
+      "username": "meusty"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5576,
+    "fee_admin": 576,
+    "margin": 500,
+    "provider_fee": 76,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 07:53:03",
+    "success_at": "2026-01-19 07:55:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011902024648061",
+    "user": {
+      "id": 8189373919,
+      "name": "Zico",
+      "username": "donghhua"
+    },
+    "amount_user": 2500,
+    "amount_paid": 3117,
+    "fee_admin": 617,
+    "margin": 500,
+    "provider_fee": 117,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 08:02:46",
+    "success_at": "2026-01-19 08:05:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011905183348281",
+    "user": {
+      "id": 8582788116,
+      "name": "gisaa",
+      "username": "wOsaragii"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3544,
+    "fee_admin": 544,
+    "margin": 500,
+    "provider_fee": 44,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 11:18:33",
+    "success_at": "2026-01-19 11:21:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011906095148334",
+    "user": {
+      "id": 5597513581,
+      "name": "amer",
+      "username": "petricz"
+    },
+    "amount_user": 2150,
+    "amount_paid": 2689,
+    "fee_admin": 539,
+    "margin": 500,
+    "provider_fee": 39,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 12:09:51",
+    "success_at": "2026-01-19 12:11:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011909555548647",
+    "user": {
+      "id": 6086339276,
+      "name": "Ghuf",
+      "username": "Seraphiells"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3613,
+    "fee_admin": 613,
+    "margin": 500,
+    "provider_fee": 113,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 15:55:55",
+    "success_at": "2026-01-19 15:57:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011910261048681",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 8500,
+    "amount_paid": 9117,
+    "fee_admin": 617,
+    "margin": 500,
+    "provider_fee": 117,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 16:26:10",
+    "success_at": "2026-01-19 16:27:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011911151748742",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 4700,
+    "amount_paid": 5333,
+    "fee_admin": 633,
+    "margin": 500,
+    "provider_fee": 133,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 17:15:17",
+    "success_at": "2026-01-19 17:16:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011915422149267",
+    "user": {
+      "id": 6678237588,
+      "name": "𝓮𝓵𝓵𝓮𝔂𝓪 ૮ ․ ․ ྀིა",
+      "username": "rakyeat"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10650,
+    "fee_admin": 650,
+    "margin": 500,
+    "provider_fee": 150,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 21:42:21",
+    "success_at": "2026-01-19 21:43:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011916155849321",
+    "user": {
+      "id": 7623914531,
+      "name": "𝐀𝐲𝐫𝐭𝐨𝐧 𝐒𝐞𝐧𝐧𝐚",
+      "username": "PEMILIKu"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3544,
+    "fee_admin": 544,
+    "margin": 500,
+    "provider_fee": 44,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 22:15:58",
+    "success_at": "2026-01-19 22:19:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011916355349343",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10640,
+    "fee_admin": 640,
+    "margin": 500,
+    "provider_fee": 140,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19 22:35:53",
+    "success_at": "2026-01-19 22:37:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011918154049392",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10670,
+    "fee_admin": 670,
+    "margin": 500,
+    "provider_fee": 170,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 00:15:40",
+    "success_at": "2026-01-20 00:17:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011918581449438",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 9500,
+    "amount_paid": 10085,
+    "fee_admin": 585,
+    "margin": 500,
+    "provider_fee": 85,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 00:58:14",
+    "success_at": "2026-01-20 00:59:02",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011919331549466",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 9000,
+    "amount_paid": 9590,
+    "fee_admin": 590,
+    "margin": 500,
+    "provider_fee": 90,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 01:33:15",
+    "success_at": "2026-01-20 01:34:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011919535749481",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20724,
+    "fee_admin": 724,
+    "margin": 500,
+    "provider_fee": 224,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 01:53:57",
+    "success_at": "2026-01-20 01:55:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011921110449503",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 15000,
+    "amount_paid": 15663,
+    "fee_admin": 663,
+    "margin": 500,
+    "provider_fee": 163,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 03:11:04",
+    "success_at": "2026-01-20 03:12:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011921142349505",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5556,
+    "fee_admin": 556,
+    "margin": 500,
+    "provider_fee": 56,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 03:14:23",
+    "success_at": "2026-01-20 03:15:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026011923111849534",
+    "user": {
+      "id": 7894158262,
+      "name": "§əfťïãņ⚡",
+      "username": "Monsterseftian"
+    },
+    "amount_user": 9000,
+    "amount_paid": 9666,
+    "fee_admin": 666,
+    "margin": 500,
+    "provider_fee": 166,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 05:11:18",
+    "success_at": "2026-01-20 05:13:07",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012005225249804",
+    "user": {
+      "id": 1592275446,
+      "name": "zara",
+      "username": "syerazah"
+    },
+    "amount_user": 2500,
+    "amount_paid": 3038,
+    "fee_admin": 538,
+    "margin": 500,
+    "provider_fee": 38,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 11:22:52",
+    "success_at": "2026-01-20 11:25:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012007223749917",
+    "user": {
+      "id": 7989005781,
+      "name": "cel",
+      "username": "ciaamutp"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5613,
+    "fee_admin": 613,
+    "margin": 500,
+    "provider_fee": 113,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 13:22:37",
+    "success_at": "2026-01-20 13:24:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012007425049944",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 20000,
+    "amount_paid": 20686,
+    "fee_admin": 686,
+    "margin": 500,
+    "provider_fee": 186,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 13:42:50",
+    "success_at": "2026-01-20 13:44:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012008205049998",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "amount_user": 9500,
+    "amount_paid": 10104,
+    "fee_admin": 604,
+    "margin": 500,
+    "provider_fee": 104,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 14:20:50",
+    "success_at": "2026-01-20 14:22:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012009021650065",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10635,
+    "fee_admin": 635,
+    "margin": 500,
+    "provider_fee": 135,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 15:02:16",
+    "success_at": "2026-01-20 15:04:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012009284050114",
+    "user": {
+      "id": 8438708869,
+      "name": "ORANG",
+      "username": "BekassOranggiilaaaaaaa"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10629,
+    "fee_admin": 629,
+    "margin": 500,
+    "provider_fee": 129,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 15:28:40",
+    "success_at": "2026-01-20 15:30:13",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012009291050117",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10650,
+    "fee_admin": 650,
+    "margin": 500,
+    "provider_fee": 150,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 15:29:10",
+    "success_at": "2026-01-20 15:31:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012009462850148",
+    "user": {
+      "id": 8047519579,
+      "name": "fakrul",
+      "username": "oyenowner"
+    },
+    "amount_user": 15000,
+    "amount_paid": 15622,
+    "fee_admin": 622,
+    "margin": 500,
+    "provider_fee": 122,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 15:46:28",
+    "success_at": "2026-01-20 15:48:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012009522850161",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5630,
+    "fee_admin": 630,
+    "margin": 500,
+    "provider_fee": 130,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 15:52:28",
+    "success_at": "2026-01-20 15:54:11",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012010551550267",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10609,
+    "fee_admin": 609,
+    "margin": 500,
+    "provider_fee": 109,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 16:55:15",
+    "success_at": "2026-01-20 16:56:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012015172250638",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20 21:17:22",
+    "success_at": "2026-01-20 21:19:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012101504250865",
+    "user": {
+      "id": 5872289879,
+      "name": "๋࣭ ࣪ ashaa . ˚. 𐙚ꜝ",
+      "username": "cefueL"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5586,
+    "fee_admin": 586,
+    "margin": 500,
+    "provider_fee": 86,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 07:50:42",
+    "success_at": "2026-01-21 07:52:04",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012106190751034",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10643,
+    "fee_admin": 643,
+    "margin": 500,
+    "provider_fee": 143,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 12:19:07",
+    "success_at": "2026-01-21 12:21:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012107172351084",
+    "user": {
+      "id": 6941932928,
+      "name": "roçky mouînt",
+      "username": "magnavoex"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5575,
+    "fee_admin": 575,
+    "margin": 500,
+    "provider_fee": 75,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 13:17:23",
+    "success_at": "2026-01-21 13:19:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012109000351196",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10635,
+    "fee_admin": 635,
+    "margin": 500,
+    "provider_fee": 135,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 15:00:03",
+    "success_at": "2026-01-21 15:02:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012109274651225",
+    "user": {
+      "id": 6198935250,
+      "name": "ilà Vᴏɴ Hɪᴍᴍᴇʟ",
+      "username": "H3rm0sa"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5597,
+    "fee_admin": 597,
+    "margin": 500,
+    "provider_fee": 97,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 15:27:46",
+    "success_at": "2026-01-21 15:32:08",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012109521551263",
+    "user": {
+      "id": 8279077655,
+      "name": "๑___ 𝓢haavya 𝒦ayeera.",
+      "username": "iSunrrise"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3539,
+    "fee_admin": 539,
+    "margin": 500,
+    "provider_fee": 39,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 15:52:15",
+    "success_at": "2026-01-21 15:54:03",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012113344851588",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "amount_user": 15000,
+    "amount_paid": 15652,
+    "fee_admin": 652,
+    "margin": 500,
+    "provider_fee": 152,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 19:34:48",
+    "success_at": "2026-01-21 19:36:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012115423451777",
+    "user": {
+      "id": 1665591593,
+      "name": "DANZEL T.",
+      "username": "Auyeon"
+    },
+    "amount_user": 5000,
+    "amount_paid": 5572,
+    "fee_admin": 572,
+    "margin": 500,
+    "provider_fee": 72,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 21:42:34",
+    "success_at": "2026-01-21 21:44:06",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012116020151810",
+    "user": {
+      "id": 1665591593,
+      "name": "DANZEL T.",
+      "username": "Auyeon"
+    },
+    "amount_user": 10000,
+    "amount_paid": 10589,
+    "fee_admin": 589,
+    "margin": 500,
+    "provider_fee": 89,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21 22:02:01",
+    "success_at": "2026-01-21 22:03:05",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012203565452105",
+    "user": {
+      "id": 8533414569,
+      "name": "Ethan haroldd",
+      "username": "jabatx"
+    },
+    "amount_user": 2150,
+    "amount_paid": 2715,
+    "fee_admin": 565,
+    "margin": 500,
+    "provider_fee": 65,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-22 09:56:54",
+    "success_at": "2026-01-22 10:00:18",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "deposit_qris",
+    "trx_id": "RO2026012208123652357",
+    "user": {
+      "id": 7380120614,
+      "name": "BUKAN ADMIN WTB!",
+      "username": "dampieng"
+    },
+    "amount_user": 3000,
+    "amount_paid": 3561,
+    "fee_admin": 561,
+    "margin": 500,
+    "provider_fee": 61,
+    "method": "QRIS",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-22 14:12:36",
+    "success_at": "2026-01-22 14:15:10",
+    "source": "deposit",
+    "meta": {
+      "note": "Deposit QRIS Berhasil",
+      "bot": "@rajaotpoffc_bot"
+    }
+  }
+]

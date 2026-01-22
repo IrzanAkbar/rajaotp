@@ -1,0 +1,4133 @@
+[
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000658434",
+    "user": {
+      "id": 8503730831,
+      "name": "FEFEK JULE",
+      "username": "Anonymous"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 777 9191",
+    "otp": "39652",
+    "amount_user": 5800,
+    "amount_provider": 0,
+    "margin": 5800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07T14:09:36.005Z",
+    "success_at": "2026-01-07T14:09:36.005Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000659592",
+    "user": {
+      "id": 8503730831,
+      "name": "FEFEK JULE",
+      "username": "Anonymous"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 475 2084",
+    "otp": "84941",
+    "amount_user": 5800,
+    "amount_provider": 0,
+    "margin": 5800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07T14:31:14.369Z",
+    "success_at": "2026-01-07T14:31:14.369Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000663058",
+    "user": {
+      "id": 7406923592,
+      "name": "Nick.",
+      "username": "mazshiho"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 243 8071",
+    "otp": "70059",
+    "amount_user": 6650,
+    "amount_provider": 0,
+    "margin": 6650,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07T15:25:40.965Z",
+    "success_at": "2026-01-07T15:25:40.965Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000664612",
+    "user": {
+      "id": 8029967845,
+      "name": "Abyan A.",
+      "username": "abyyaan"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "indosat",
+    "phone_number": "+62 858 6367 0395",
+    "otp": "588333",
+    "amount_user": 4500,
+    "amount_provider": 0,
+    "margin": 4500,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-07T17:23:26.150Z",
+    "success_at": "2026-01-07T17:23:26.150Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000668247",
+    "user": {
+      "id": 6695050389,
+      "name": "zeyyaaa :3",
+      "username": "kecbik"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 243 8413",
+    "otp": "66234",
+    "amount_user": 6100,
+    "amount_provider": 0,
+    "margin": 6100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T00:12:26.111Z",
+    "success_at": "2026-01-08T00:12:26.111Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000668780",
+    "user": {
+      "id": 7406923592,
+      "name": "k.",
+      "username": "mazshiho"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 236 616 6499",
+    "otp": "62457",
+    "amount_user": 6650,
+    "amount_provider": 0,
+    "margin": 6650,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T02:36:54.758Z",
+    "success_at": "2026-01-08T02:36:54.758Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000679064",
+    "user": {
+      "id": 7258373031,
+      "name": "lala",
+      "username": "koncoT"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 782 857 0425",
+    "otp": "27974",
+    "amount_user": 5800,
+    "amount_provider": 0,
+    "margin": 5800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T07:55:54.540Z",
+    "success_at": "2026-01-08T07:55:54.540Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000684991",
+    "user": {
+      "id": 8165164867,
+      "name": "long rest. jangan tfo kesini.",
+      "username": "uextras"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 548 892 0758",
+    "otp": "26955",
+    "amount_user": 5800,
+    "amount_provider": 0,
+    "margin": 5800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T10:23:46.905Z",
+    "success_at": "2026-01-08T10:23:46.905Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000691456",
+    "user": {
+      "id": 7223994005,
+      "name": "LeicaLee",
+      "username": "LeicaaLee"
+    },
+    "service": "Shopee",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 831 9185 2617",
+    "otp": "434659",
+    "amount_user": 2550,
+    "amount_provider": 0,
+    "margin": 2550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T13:14:27.109Z",
+    "success_at": "2026-01-08T13:14:27.109Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000697807",
+    "user": {
+      "id": 1222106050,
+      "name": "yora terbang",
+      "username": "Lojtso"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 5058 3489",
+    "otp": "412644",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T22:02:58.841Z",
+    "success_at": "2026-01-08T22:02:58.841Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000697807",
+    "user": {
+      "id": 1222106050,
+      "name": "yora terbang",
+      "username": "Lojtso"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 5058 3489",
+    "otp": "412644",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T22:04:44.715Z",
+    "success_at": "2026-01-08T22:04:44.715Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000697807",
+    "user": {
+      "id": 1222106050,
+      "name": "yora terbang",
+      "username": "Lojtso"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 5058 3489",
+    "otp": "412644",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T22:05:15.715Z",
+    "success_at": "2026-01-08T22:05:15.715Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000697807",
+    "user": {
+      "id": 1222106050,
+      "name": "yora terbang",
+      "username": "Lojtso"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 5058 3489",
+    "otp": "412644",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-08T22:07:53.027Z",
+    "success_at": "2026-01-08T22:07:53.027Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000703332",
+    "user": {
+      "id": 5556547190,
+      "name": "NazHire, chely",
+      "username": "chelyycell"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4373 4483",
+    "otp": "928930",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T05:29:10.727Z",
+    "success_at": "2026-01-09T05:29:10.727Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000703332",
+    "user": {
+      "id": 5556547190,
+      "name": "NazHire, chely",
+      "username": "chelyycell"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4373 4483",
+    "otp": "928930",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T05:31:27.480Z",
+    "success_at": "2026-01-09T05:31:27.480Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000703332",
+    "user": {
+      "id": 5556547190,
+      "name": "NazHire, chely",
+      "username": "chelyycell"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4373 4483",
+    "otp": "928930",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T05:31:40.414Z",
+    "success_at": "2026-01-09T05:31:40.414Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000704883",
+    "user": {
+      "id": 6657717946,
+      "name": "ᴀᴇᴛʜᴇʀ",
+      "username": "Cowliek"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 902 509 6419",
+    "otp": "426878",
+    "amount_user": 7000,
+    "amount_provider": 0,
+    "margin": 7000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T05:31:41.112Z",
+    "success_at": "2026-01-09T05:31:41.112Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000703332",
+    "user": {
+      "id": 5556547190,
+      "name": "NazHire, chely",
+      "username": "chelyycell"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4373 4483",
+    "otp": "928930",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T05:32:20.796Z",
+    "success_at": "2026-01-09T05:32:20.796Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000706692",
+    "user": {
+      "id": 8061116792,
+      "name": "੭‌ ♫ anashea, open ♡̶",
+      "username": "kimminnjeongn"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 825 929 7220",
+    "otp": "38407",
+    "amount_user": 5800,
+    "amount_provider": 0,
+    "margin": 5800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T06:38:36.628Z",
+    "success_at": "2026-01-09T06:38:36.628Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000711147",
+    "user": {
+      "id": 8531493530,
+      "name": "edeǟ",
+      "username": "lambayann"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 853 8540 5541",
+    "otp": "846958",
+    "amount_user": 5400,
+    "amount_provider": 0,
+    "margin": 5400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T07:45:45.240Z",
+    "success_at": "2026-01-09T07:45:45.240Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000715643",
+    "user": {
+      "id": 8041124564,
+      "name": "Öchi Audyna",
+      "username": "maejhor"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "indosat",
+    "phone_number": "+62 856 9507 6773",
+    "otp": "488672",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-09T09:04:48.869Z",
+    "success_at": "2026-01-09T09:04:48.869Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000794732",
+    "user": {
+      "id": 7650768005,
+      "name": "𝐒𝐚𝐛𝐢𝐧𝐭𝐚𝐧g LAGI DILUAR",
+      "username": "xTampora"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 857 4585 6455",
+    "otp": "110987",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-10T18:17:08.493Z",
+    "success_at": "2026-01-10T18:17:08.493Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000798894",
+    "user": {
+      "id": 7077483498,
+      "name": "nevv's fast r25 noktel",
+      "username": "nevliinn"
+    },
+    "service": "Shopee",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 823 1585 4253",
+    "otp": "820995",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T02:59:07.881Z",
+    "success_at": "2026-01-11T02:59:07.882Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000805816",
+    "user": {
+      "id": 7729782100,
+      "name": "Private",
+      "username": "Private_prh"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "indosat",
+    "phone_number": "+62 858 3145 3953",
+    "otp": "2370",
+    "amount_user": 6350,
+    "amount_provider": 0,
+    "margin": 6350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T05:43:05.300Z",
+    "success_at": "2026-01-11T05:43:05.300Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000805816",
+    "user": {
+      "id": 7729782100,
+      "name": "Private",
+      "username": "Private_prh"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "indosat",
+    "phone_number": "+62 858 3145 3953",
+    "otp": "2370",
+    "amount_user": 6350,
+    "amount_provider": 0,
+    "margin": 6350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T05:45:07.601Z",
+    "success_at": "2026-01-11T05:45:07.601Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000806536",
+    "user": {
+      "id": 8471921021,
+      "name": "michies, hyung",
+      "username": "fhenti"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "indosat",
+    "phone_number": "+62 857 4630 4837",
+    "otp": "640161",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T05:56:51.548Z",
+    "success_at": "2026-01-11T05:56:51.548Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000809565",
+    "user": {
+      "id": 6980256334,
+      "name": "Clyra, moelune.",
+      "username": "taiap"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 226 940 2544",
+    "otp": "86177",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T06:53:54.280Z",
+    "success_at": "2026-01-11T06:53:54.280Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000811219",
+    "user": {
+      "id": 6949530831,
+      "name": "gahar",
+      "username": "climsax"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 4322 2604",
+    "otp": "377839",
+    "amount_user": 4250,
+    "amount_provider": 0,
+    "margin": 4250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T07:15:32.585Z",
+    "success_at": "2026-01-11T07:15:32.585Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000815435",
+    "user": {
+      "id": 6426343230,
+      "name": "Bibul",
+      "username": "sadiela"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 838 9274 6340",
+    "otp": "879751",
+    "amount_user": 4400,
+    "amount_provider": 0,
+    "margin": 4400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T08:02:24.928Z",
+    "success_at": "2026-01-11T08:02:24.928Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@AKingOtp_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000845792",
+    "user": {
+      "id": 7412829557,
+      "name": "Starclet",
+      "username": "Volcenn"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "AXIS",
+    "phone_number": "+62 851 3353 2117",
+    "otp": "70182",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T14:46:56.944Z",
+    "success_at": "2026-01-11T14:46:56.944Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000846503",
+    "user": {
+      "id": 7406923592,
+      "name": "k.",
+      "username": "mazshiho"
+    },
+    "service": "Telegram",
+    "country": "Philippines",
+    "operator": "any",
+    "phone_number": "+63 955 341 1889",
+    "otp": "63845",
+    "amount_user": 6300,
+    "amount_provider": 0,
+    "margin": 6300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T15:04:47.003Z",
+    "success_at": "2026-01-11T15:04:47.003Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000853012",
+    "user": {
+      "id": 6657717946,
+      "name": "James.",
+      "username": "Cowliek"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "Telkom",
+    "phone_number": "+62 821 4645 2384",
+    "otp": "38426",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T21:47:25.531Z",
+    "success_at": "2026-01-11T21:47:25.531Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000853664",
+    "user": {
+      "id": 7412829557,
+      "name": "Starclet",
+      "username": "Volcenn"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "Xl Axiata",
+    "phone_number": "+62 895 0993 4101",
+    "otp": "99551",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T22:44:15.751Z",
+    "success_at": "2026-01-11T22:44:15.751Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000853664",
+    "user": {
+      "id": 7412829557,
+      "name": "Starclet",
+      "username": "Volcenn"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "Xl Axiata",
+    "phone_number": "+62 895 0993 4101",
+    "otp": "99551",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-11T23:01:26.813Z",
+    "success_at": "2026-01-11T23:01:26.813Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000853664",
+    "user": {
+      "id": 7412829557,
+      "name": "Starclet",
+      "username": "Volcenn"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "Xl Axiata",
+    "phone_number": "+62 895 0993 4101",
+    "otp": "99551",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12T00:36:21.340Z",
+    "success_at": "2026-01-12T00:36:21.340Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000855116",
+    "user": {
+      "id": 7412829557,
+      "name": "Starclet",
+      "username": "Volcenn"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "Telkom",
+    "phone_number": "+62 851 3723 5502",
+    "otp": "84517",
+    "amount_user": 2300,
+    "amount_provider": 0,
+    "margin": 2300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12T00:39:01.280Z",
+    "success_at": "2026-01-12T00:39:01.280Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000856574",
+    "user": {
+      "id": 6952979180,
+      "name": "Exel",
+      "username": "brianyent"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 548 892 0382",
+    "otp": "49214",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12T03:31:09.460Z",
+    "success_at": "2026-01-12T03:31:09.460Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000958124",
+    "user": {
+      "id": 6657717946,
+      "name": "James - hold teleprem.",
+      "username": "Cowliek"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Telkom",
+    "phone_number": "+62 895 2887 9937",
+    "otp": "917581",
+    "amount_user": 4150,
+    "amount_provider": 0,
+    "margin": 4150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12T12:00:20.511Z",
+    "success_at": "2026-01-12T12:00:20.511Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0000970530",
+    "user": {
+      "id": 6657717946,
+      "name": "James - hold teleprem.",
+      "username": "Cowliek"
+    },
+    "service": "Gojek",
+    "country": "Indonesia",
+    "operator": "AXIS",
+    "phone_number": "+62 821 1348 5079",
+    "otp": "6822",
+    "amount_user": 2350,
+    "amount_provider": 0,
+    "margin": 2350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-12T12:53:06.228Z",
+    "success_at": "2026-01-12T12:53:06.228Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001015715",
+    "user": {
+      "id": 6657717946,
+      "name": "James - hold teleprem.",
+      "username": "Cowliek"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "IM3 Ooredoo",
+    "phone_number": "+62 858 3746 9479",
+    "otp": "365272",
+    "amount_user": 4150,
+    "amount_provider": 0,
+    "margin": 4150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T00:24:44.352Z",
+    "success_at": "2026-01-13T00:24:44.353Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001017724",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Philippines",
+    "operator": "any",
+    "phone_number": "+63 948 891 2409",
+    "otp": "882437",
+    "amount_user": 20250,
+    "amount_provider": 0,
+    "margin": 20250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T03:22:15.213Z",
+    "success_at": "2026-01-13T03:22:15.213Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001017724",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Philippines",
+    "operator": "any",
+    "phone_number": "+63 948 891 2409",
+    "otp": "882437",
+    "amount_user": 20250,
+    "amount_provider": 0,
+    "margin": 20250,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T03:22:58.842Z",
+    "success_at": "2026-01-13T03:22:58.842Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001030114",
+    "user": {
+      "id": 7767284622,
+      "name": "Kalula suka mie ayam🍝",
+      "username": "kalulacanttipp"
+    },
+    "service": "Shopee",
+    "country": "Indonesia",
+    "operator": "telkomsel",
+    "phone_number": "+62 851 3675 0675",
+    "otp": "272908",
+    "amount_user": 3100,
+    "amount_provider": 0,
+    "margin": 3100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T04:56:15.706Z",
+    "success_at": "2026-01-13T04:56:15.706Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001057793",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 386 1182",
+    "otp": "341818",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T07:54:42.136Z",
+    "success_at": "2026-01-13T07:54:42.136Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001058610",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 386 1028",
+    "otp": "985385",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T08:02:06.166Z",
+    "success_at": "2026-01-13T08:02:06.166Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001058827",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 424 0237",
+    "otp": "189803",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T08:04:04.630Z",
+    "success_at": "2026-01-13T08:04:04.630Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001061656",
+    "user": {
+      "id": 7681160341,
+      "name": "Mr.W",
+      "username": "papinyaelbarrack"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 242 5399",
+    "otp": "647671",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T08:27:33.939Z",
+    "success_at": "2026-01-13T08:27:33.939Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001066015",
+    "user": {
+      "id": 7412829557,
+      "name": "Konteenebake",
+      "username": "Nationn6"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "IM3 Ooredoo",
+    "phone_number": "+62 831 0584 2590",
+    "otp": "930166",
+    "amount_user": 4150,
+    "amount_provider": 0,
+    "margin": 4150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T08:57:16.166Z",
+    "success_at": "2026-01-13T08:57:16.166Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001070031",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 388 1010",
+    "otp": "160078",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T09:23:50.600Z",
+    "success_at": "2026-01-13T09:23:50.600Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001079335",
+    "user": {
+      "id": 7681160341,
+      "name": "Mr.W",
+      "username": "papinyaelbarrack"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 579 258 0528",
+    "otp": "319036",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T10:54:29.570Z",
+    "success_at": "2026-01-13T10:54:29.570Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001095401",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 242 5095",
+    "otp": "205734",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T14:52:44.073Z",
+    "success_at": "2026-01-13T14:52:44.073Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001098345",
+    "user": {
+      "id": 8503730831,
+      "name": "JERINJEMBOT",
+      "username": "jefripayson"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 838 2376 9937",
+    "otp": "143459",
+    "amount_user": 4400,
+    "amount_provider": 0,
+    "margin": 4400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T15:54:50.731Z",
+    "success_at": "2026-01-13T15:54:50.731Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001098345",
+    "user": {
+      "id": 8503730831,
+      "name": "JERINJEMBOT",
+      "username": "jefripayson"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 838 2376 9937",
+    "otp": "143459",
+    "amount_user": 4400,
+    "amount_provider": 0,
+    "margin": 4400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T15:54:50.972Z",
+    "success_at": "2026-01-13T15:54:50.972Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001098345",
+    "user": {
+      "id": 8503730831,
+      "name": "JERINJEMBOT",
+      "username": "jefripayson"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 838 2376 9937",
+    "otp": "143459",
+    "amount_user": 4400,
+    "amount_provider": 0,
+    "margin": 4400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T15:54:51.101Z",
+    "success_at": "2026-01-13T15:54:51.101Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001098345",
+    "user": {
+      "id": 8503730831,
+      "name": "JERINJEMBOT",
+      "username": "jefripayson"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 838 2376 9937",
+    "otp": "143459",
+    "amount_user": 4400,
+    "amount_provider": 0,
+    "margin": 4400,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T15:54:51.258Z",
+    "success_at": "2026-01-13T15:54:51.258Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001099930",
+    "user": {
+      "id": 7681160341,
+      "name": "Mr.W",
+      "username": "papinyaelbarrack"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 424 0049",
+    "otp": "382632",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-13T17:50:02.248Z",
+    "success_at": "2026-01-13T17:50:02.248Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001105647",
+    "user": {
+      "id": 7559599926,
+      "name": "Bentala R.",
+      "username": "Bentalal"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 548 892 0034",
+    "otp": "67530",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T03:24:17.655Z",
+    "success_at": "2026-01-14T03:24:17.655Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001105934",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0696",
+    "otp": "96299",
+    "amount_user": 7050,
+    "amount_provider": 0,
+    "margin": 7050,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T03:40:11.818Z",
+    "success_at": "2026-01-14T03:40:11.818Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001108085",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 831 1975 4594",
+    "otp": "118419",
+    "amount_user": 4450,
+    "amount_provider": 0,
+    "margin": 4450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T04:57:01.765Z",
+    "success_at": "2026-01-14T04:57:01.765Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001108085",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 831 1975 4594",
+    "otp": "118419",
+    "amount_user": 4450,
+    "amount_provider": 0,
+    "margin": 4450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T05:02:14.447Z",
+    "success_at": "2026-01-14T05:02:14.447Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001110142",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 825 912 8486",
+    "otp": "289793",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T05:44:08.274Z",
+    "success_at": "2026-01-14T05:44:08.274Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001119887",
+    "user": {
+      "id": 7217698726,
+      "name": "Stalin~",
+      "username": "YawYawi1000"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 514 474 1221",
+    "otp": "801158",
+    "amount_user": 6750,
+    "amount_provider": 0,
+    "margin": 6750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T08:24:45.530Z",
+    "success_at": "2026-01-14T08:24:45.530Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001120109",
+    "user": {
+      "id": 7217698726,
+      "name": "Stalin~",
+      "username": "YawYawi1000"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 343 561 9559",
+    "otp": "687675",
+    "amount_user": 6750,
+    "amount_provider": 0,
+    "margin": 6750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T08:30:59.881Z",
+    "success_at": "2026-01-14T08:30:59.881Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001122123",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Telkomsel",
+    "phone_number": "+62 878 8740 6244",
+    "otp": "503902",
+    "amount_user": 7350,
+    "amount_provider": 0,
+    "margin": 7350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T08:59:21.066Z",
+    "success_at": "2026-01-14T08:59:21.066Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001123915",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 742 777 9434",
+    "otp": "408289",
+    "amount_user": 7200,
+    "amount_provider": 0,
+    "margin": 7200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T09:39:58.386Z",
+    "success_at": "2026-01-14T09:39:58.386Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001128902",
+    "user": {
+      "id": 7724637745,
+      "name": "Lyshaa",
+      "username": "freentis"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "IM3 Ooredoo",
+    "phone_number": "+62 851 3353 2188",
+    "otp": "97188",
+    "amount_user": 4150,
+    "amount_provider": 0,
+    "margin": 4150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T12:08:25.552Z",
+    "success_at": "2026-01-14T12:08:25.552Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001131610",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 762 291 3376",
+    "otp": "86817",
+    "amount_user": 7450,
+    "amount_provider": 0,
+    "margin": 7450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T13:10:16.349Z",
+    "success_at": "2026-01-14T13:10:16.349Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001132253",
+    "user": {
+      "id": 8565783743,
+      "name": "amayi, c! ♡",
+      "username": "finreshyt"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0761",
+    "otp": "97397",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T13:34:05.821Z",
+    "success_at": "2026-01-14T13:34:05.821Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001142004",
+    "user": {
+      "id": 6657717946,
+      "name": "James.",
+      "username": "Cowliek"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "AXIS",
+    "phone_number": "+62 895 2943 1563",
+    "otp": "541661",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-14T23:41:02.603Z",
+    "success_at": "2026-01-14T23:41:02.603Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001143447",
+    "user": {
+      "id": 8503730831,
+      "name": "JERINJEMBOT",
+      "username": "jefripayson"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 343 632 2816",
+    "otp": "63337",
+    "amount_user": 7050,
+    "amount_provider": 0,
+    "margin": 7050,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T02:24:02.237Z",
+    "success_at": "2026-01-15T02:24:02.237Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001144938",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "3 (Three)",
+    "phone_number": "+62 895 2888 9672",
+    "otp": "161305",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T04:14:38.516Z",
+    "success_at": "2026-01-15T04:14:38.516Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001145039",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 775 518 3511",
+    "otp": "21937",
+    "amount_user": 7450,
+    "amount_provider": 0,
+    "margin": 7450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T04:20:50.105Z",
+    "success_at": "2026-01-15T04:20:50.105Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001152628",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 484 365 0315",
+    "otp": "12117",
+    "amount_user": 7450,
+    "amount_provider": 0,
+    "margin": 7450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T08:45:23.377Z",
+    "success_at": "2026-01-15T08:45:23.377Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001153150",
+    "user": {
+      "id": 7729782100,
+      "name": "Rangga story",
+      "username": "RANGGA_STORY"
+    },
+    "service": "Telegram",
+    "country": "United States",
+    "operator": "any",
+    "phone_number": "+1 251 514 8747",
+    "otp": "57747",
+    "amount_user": 17800,
+    "amount_provider": 0,
+    "margin": 17800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T09:06:48.136Z",
+    "success_at": "2026-01-15T09:06:48.136Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001157434",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Bomaoy"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 484 365 0613",
+    "otp": "51000",
+    "amount_user": 7450,
+    "amount_provider": 0,
+    "margin": 7450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T11:50:56.667Z",
+    "success_at": "2026-01-15T11:50:56.667Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001158390",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 343 632 5341",
+    "otp": "204390",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T12:19:39.088Z",
+    "success_at": "2026-01-15T12:19:39.088Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001158545",
+    "user": {
+      "id": 899276467,
+      "name": "PREFERREDACCOUNT",
+      "username": "PREFERREDACCOUNT"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 618 9627",
+    "otp": "613313",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T12:24:22.048Z",
+    "success_at": "2026-01-15T12:24:22.048Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001160170",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "Google, Gmail, Youtube",
+    "country": "Indonesia",
+    "operator": "Telkomsel",
+    "phone_number": "+62 831 6437 0816",
+    "otp": "135302",
+    "amount_user": 2350,
+    "amount_provider": 0,
+    "margin": 2350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T13:08:32.563Z",
+    "success_at": "2026-01-15T13:08:32.563Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001168347",
+    "user": {
+      "id": 7412829557,
+      "name": "Stamberr",
+      "username": "Anonymous"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 431 507 0350",
+    "otp": "21864",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-15T23:29:18.850Z",
+    "success_at": "2026-01-15T23:29:18.850Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001168886",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 6933 4461",
+    "otp": "6640",
+    "amount_user": 3750,
+    "amount_provider": 0,
+    "margin": 3750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T00:31:56.972Z",
+    "success_at": "2026-01-16T00:31:56.972Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001168886",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 6933 4461",
+    "otp": "6640",
+    "amount_user": 3750,
+    "amount_provider": 0,
+    "margin": 3750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T00:31:57.703Z",
+    "success_at": "2026-01-16T00:31:57.703Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001168886",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 6933 4461",
+    "otp": "6640",
+    "amount_user": 3750,
+    "amount_provider": 0,
+    "margin": 3750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T00:31:58.578Z",
+    "success_at": "2026-01-16T00:31:58.578Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001169006",
+    "user": {
+      "id": 7729782100,
+      "name": "Rangga story",
+      "username": "RANGGA_STORY"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 226 601 1251",
+    "otp": "31498",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T00:38:46.300Z",
+    "success_at": "2026-01-16T00:38:46.300Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001178101",
+    "user": {
+      "id": 7894158262,
+      "name": "§əfťïãņ⚡",
+      "username": "Monsterseftian"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 365 892 3608",
+    "otp": "69344",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T08:17:15.436Z",
+    "success_at": "2026-01-16T08:17:15.436Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001185595",
+    "user": {
+      "id": 7077483498,
+      "name": "nevv's",
+      "username": "nevliinn"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 838 7930 1541",
+    "otp": "322368",
+    "amount_user": 5950,
+    "amount_provider": 0,
+    "margin": 5950,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-16T11:28:31.073Z",
+    "success_at": "2026-01-16T11:28:31.073Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001206607",
+    "user": {
+      "id": 8209922139,
+      "name": "Albire.",
+      "username": "najqong"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 276 314 2980",
+    "otp": "90071",
+    "amount_user": 8500,
+    "amount_provider": 0,
+    "margin": 8500,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T07:30:54.952Z",
+    "success_at": "2026-01-17T07:30:54.952Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001208345",
+    "user": {
+      "id": 8524034968,
+      "name": "nzy",
+      "username": "njbott"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 579 567 0649",
+    "otp": "31333",
+    "amount_user": 7050,
+    "amount_provider": 0,
+    "margin": 7050,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T08:27:08.905Z",
+    "success_at": "2026-01-17T08:27:08.905Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001212533",
+    "user": {
+      "id": 7132408057,
+      "name": "Gisel",
+      "username": "tirujs"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 857 7117 0289",
+    "otp": "234095",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T11:01:52.971Z",
+    "success_at": "2026-01-17T11:01:52.971Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001212624",
+    "user": {
+      "id": 7380523729,
+      "name": "dev@mqverick.lol",
+      "username": "mqvericck"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 898 0314 727",
+    "otp": "887672",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T11:04:26.561Z",
+    "success_at": "2026-01-17T11:04:26.561Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001213299",
+    "user": {
+      "id": 7132408057,
+      "name": "Gisel",
+      "username": "tirujs"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 878 4997 7635",
+    "otp": "259928",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T11:34:36.398Z",
+    "success_at": "2026-01-17T11:34:36.398Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001213594",
+    "user": {
+      "id": 7132408057,
+      "name": "Gisel",
+      "username": "tirujs"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 897 2206 521",
+    "otp": "820417",
+    "amount_user": 3700,
+    "amount_provider": 0,
+    "margin": 3700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T11:51:20.654Z",
+    "success_at": "2026-01-17T11:51:20.654Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001214623",
+    "user": {
+      "id": 7290838040,
+      "name": "J",
+      "username": "jFrauders"
+    },
+    "service": "Telegram",
+    "country": "Indonesia",
+    "operator": "IM3 Ooredoo",
+    "phone_number": "+62 895 2846 9189",
+    "otp": "98662",
+    "amount_user": 4150,
+    "amount_provider": 0,
+    "margin": 4150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-17T12:40:14.867Z",
+    "success_at": "2026-01-17T12:40:14.867Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001225472",
+    "user": {
+      "id": 2088659489,
+      "name": "Sierène. @rSeksi",
+      "username": "rSeksi"
+    },
+    "service": "Google, Gmail, Youtube",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4330 9907",
+    "otp": "506714",
+    "amount_user": 2450,
+    "amount_provider": 0,
+    "margin": 2450,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T01:18:28.909Z",
+    "success_at": "2026-01-18T01:18:28.909Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001227023",
+    "user": {
+      "id": 5886301313,
+      "name": "𝓒aelira W. #𝐂almin𝐀𝐫𝐞𝐚",
+      "username": "takhtaD"
+    },
+    "service": "Telegram",
+    "country": "United States (virtual)",
+    "operator": "any",
+    "phone_number": "+1 334 907 3319",
+    "otp": "83991",
+    "amount_user": 8500,
+    "amount_provider": 0,
+    "margin": 8500,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T03:14:03.746Z",
+    "success_at": "2026-01-18T03:14:03.746Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001235853",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 878 5095 5700",
+    "otp": "310037",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T08:04:58.943Z",
+    "success_at": "2026-01-18T08:04:58.943Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001235853",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 878 5095 5700",
+    "otp": "310037",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T08:05:01.907Z",
+    "success_at": "2026-01-18T08:05:01.907Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001240127",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 838 6763 9497",
+    "otp": "887883",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T09:43:08.444Z",
+    "success_at": "2026-01-18T09:43:08.444Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001240599",
+    "user": {
+      "id": 8165164867,
+      "name": "long rest. jangan tfo kesini.",
+      "username": "uextras"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 618 9960",
+    "otp": "41330",
+    "amount_user": 5850,
+    "amount_provider": 0,
+    "margin": 5850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T09:49:49.368Z",
+    "success_at": "2026-01-18T09:49:49.368Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001244236",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "AXIS",
+    "phone_number": "+62 831 9189 3515",
+    "otp": "863829",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T11:49:06.335Z",
+    "success_at": "2026-01-18T11:49:06.335Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001245793",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Xl Axiata",
+    "phone_number": "+62 878 7874 7425",
+    "otp": "447096",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T12:29:27.189Z",
+    "success_at": "2026-01-18T12:29:27.189Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001249367",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 877 4011 8044",
+    "otp": "413227",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T14:19:42.440Z",
+    "success_at": "2026-01-18T14:19:42.440Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001250241",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 878 4395 5039",
+    "otp": "785011",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T14:52:50.625Z",
+    "success_at": "2026-01-18T14:52:50.625Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001259643",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 857 0745 2994",
+    "otp": "834712",
+    "amount_user": 3850,
+    "amount_provider": 0,
+    "margin": 3850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-18T19:22:29.534Z",
+    "success_at": "2026-01-18T19:22:29.534Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001274827",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 9115 5801",
+    "otp": "796595",
+    "amount_user": 3800,
+    "amount_provider": 0,
+    "margin": 3800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T01:21:13.133Z",
+    "success_at": "2026-01-19T01:21:13.133Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001288283",
+    "user": {
+      "id": 7380120614,
+      "name": "BUKAN ADMIN WTB!",
+      "username": "dampieng"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 424 0335",
+    "otp": "25647",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T05:40:21.124Z",
+    "success_at": "2026-01-19T05:40:21.124Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001291388",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 258 3860",
+    "otp": "780950",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T06:12:00.956Z",
+    "success_at": "2026-01-19T06:12:00.956Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001291897",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 581 206 3456",
+    "otp": "834628",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T06:21:18.988Z",
+    "success_at": "2026-01-19T06:21:18.988Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001298459",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 548 233 3021",
+    "otp": "376189",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T07:10:14.440Z",
+    "success_at": "2026-01-19T07:10:14.440Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001298459",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Shgitmxccc"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 548 233 3021",
+    "otp": "376189",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T07:10:17.907Z",
+    "success_at": "2026-01-19T07:10:17.907Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001309825",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 259 9643",
+    "otp": "552356",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T08:54:28.793Z",
+    "success_at": "2026-01-19T08:54:28.793Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001309825",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 259 9643",
+    "otp": "552356",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T08:55:17.549Z",
+    "success_at": "2026-01-19T08:55:17.549Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001309825",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 259 9643",
+    "otp": "552356",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T08:55:36.194Z",
+    "success_at": "2026-01-19T08:55:36.194Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001309825",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 259 9643",
+    "otp": "552356",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T08:56:19.696Z",
+    "success_at": "2026-01-19T08:56:19.696Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001313086",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 258 3580",
+    "otp": "458672",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T10:14:28.466Z",
+    "success_at": "2026-01-19T10:14:28.466Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001316295",
+    "user": {
+      "id": 6086339276,
+      "name": "Ghuf",
+      "username": "Seraphiells"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 343 298 8875",
+    "otp": "700888",
+    "amount_user": 6850,
+    "amount_provider": 0,
+    "margin": 6850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T10:16:25.364Z",
+    "success_at": "2026-01-19T10:16:25.364Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001316438",
+    "user": {
+      "id": 7975244837,
+      "name": "𝖬𝖺𝗌𝖿𝖺",
+      "username": "lMasfa"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 873 910 2357",
+    "otp": "744747",
+    "amount_user": 6700,
+    "amount_provider": 0,
+    "margin": 6700,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T10:19:32.824Z",
+    "success_at": "2026-01-19T10:19:32.824Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T11:22:12.903Z",
+    "success_at": "2026-01-19T11:22:12.903Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T11:26:35.282Z",
+    "success_at": "2026-01-19T11:26:35.282Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T11:27:38.138Z",
+    "success_at": "2026-01-19T11:27:38.138Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T11:27:40.065Z",
+    "success_at": "2026-01-19T11:27:40.065Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T11:39:36.001Z",
+    "success_at": "2026-01-19T11:39:36.001Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001319570",
+    "user": {
+      "id": 7714301566,
+      "name": "Nôrèen's bëe خلاب",
+      "username": "smaLmon"
+    },
+    "service": "Telegram",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 819 917 0611",
+    "otp": "57062",
+    "amount_user": 7100,
+    "amount_provider": 0,
+    "margin": 7100,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T12:03:04.747Z",
+    "success_at": "2026-01-19T12:03:04.747Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001332324",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 889 9133 9290",
+    "otp": "553265",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T15:40:14.671Z",
+    "success_at": "2026-01-19T15:40:14.671Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001332514",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 7629 9022",
+    "otp": "716683",
+    "amount_user": 3800,
+    "amount_provider": 0,
+    "margin": 3800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T15:47:01.471Z",
+    "success_at": "2026-01-19T15:47:01.471Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001335001",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 7956 2649",
+    "otp": "347895",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T17:20:02.662Z",
+    "success_at": "2026-01-19T17:20:02.662Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001338862",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 7629 8931",
+    "otp": "936198",
+    "amount_user": 5200,
+    "amount_provider": 0,
+    "margin": 5200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T18:00:34.387Z",
+    "success_at": "2026-01-19T18:00:34.387Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001345564",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 4515 9236",
+    "otp": "136396",
+    "amount_user": 3800,
+    "amount_provider": 0,
+    "margin": 3800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T18:33:31.253Z",
+    "success_at": "2026-01-19T18:33:31.253Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001345593",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 4515 9260",
+    "otp": "383957",
+    "amount_user": 5200,
+    "amount_provider": 0,
+    "margin": 5200,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T18:41:22.259Z",
+    "success_at": "2026-01-19T18:41:22.259Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001345597",
+    "user": {
+      "id": 7268319554,
+      "name": "Jci",
+      "username": "Zaky3105"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 831 8635 9373",
+    "otp": "100310",
+    "amount_user": 9000,
+    "amount_provider": 0,
+    "margin": 9000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T18:42:41.673Z",
+    "success_at": "2026-01-19T18:42:41.673Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001348296",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 4507 2771",
+    "otp": "796368",
+    "amount_user": 5000,
+    "amount_provider": 0,
+    "margin": 5000,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T19:02:53.232Z",
+    "success_at": "2026-01-19T19:02:53.232Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001351857",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 4515 9214",
+    "otp": "960460",
+    "amount_user": 3800,
+    "amount_provider": 0,
+    "margin": 3800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T19:34:45.135Z",
+    "success_at": "2026-01-19T19:34:45.135Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001351935",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Smartfren",
+    "phone_number": "+62 831 4943 1120",
+    "otp": "740240",
+    "amount_user": 7650,
+    "amount_provider": 0,
+    "margin": 7650,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T19:35:27.348Z",
+    "success_at": "2026-01-19T19:35:27.348Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001354322",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 877 5692 6156",
+    "otp": "746228",
+    "amount_user": 4050,
+    "amount_provider": 0,
+    "margin": 4050,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T20:10:41.916Z",
+    "success_at": "2026-01-19T20:10:41.916Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001357366",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Smartfren",
+    "phone_number": "+62 831 7106 7015",
+    "otp": "460344",
+    "amount_user": 7850,
+    "amount_provider": 0,
+    "margin": 7850,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-19T21:19:09.754Z",
+    "success_at": "2026-01-19T21:19:09.754Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001368327",
+    "user": {
+      "id": 7894158262,
+      "name": "§əfťïãņ⚡",
+      "username": "Monsterseftian"
+    },
+    "service": "Telegram",
+    "country": "Brazil",
+    "operator": "any",
+    "phone_number": "+55 99 98278 0001",
+    "otp": "65248",
+    "amount_user": 10350,
+    "amount_provider": 0,
+    "margin": 10350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T00:19:36.896Z",
+    "success_at": "2026-01-20T00:19:36.896Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001374622",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Colombia",
+    "operator": "Movistar",
+    "phone_number": "+57 318 8875807",
+    "otp": "739302",
+    "amount_user": 6350,
+    "amount_provider": 0,
+    "margin": 6350,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T02:11:54.541Z",
+    "success_at": "2026-01-20T02:11:54.541Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001377541",
+    "user": {
+      "id": 1592275446,
+      "name": "zara",
+      "username": "syerazah"
+    },
+    "service": "Shopee",
+    "country": "Indonesia",
+    "operator": "3 (Three)",
+    "phone_number": "+62 831 4943 1138",
+    "otp": "522854",
+    "amount_user": 2150,
+    "amount_provider": 0,
+    "margin": 2150,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T04:28:10.879Z",
+    "success_at": "2026-01-20T04:28:10.879Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001381402",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 831 9746 9219",
+    "otp": "900326",
+    "amount_user": 9300,
+    "amount_provider": 0,
+    "margin": 9300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T06:36:19.514Z",
+    "success_at": "2026-01-20T06:36:19.514Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001381768",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "axis",
+    "phone_number": "+62 838 9324 6516",
+    "otp": "693578",
+    "amount_user": 9300,
+    "amount_provider": 0,
+    "margin": 9300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T06:47:34.503Z",
+    "success_at": "2026-01-20T06:47:34.503Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001382818",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 887 4049 5116",
+    "otp": "582030",
+    "amount_user": 10550,
+    "amount_provider": 0,
+    "margin": 10550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T07:24:39.415Z",
+    "success_at": "2026-01-20T07:24:39.415Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001383421",
+    "user": {
+      "id": 8164090427,
+      "name": "ORANG",
+      "username": "oranggsenangggg"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 887 0802 1004",
+    "otp": "661483",
+    "amount_user": 10550,
+    "amount_provider": 0,
+    "margin": 10550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T07:41:15.463Z",
+    "success_at": "2026-01-20T07:41:15.463Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001384418",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "smartfren",
+    "phone_number": "+62 882 7956 1740",
+    "otp": "482271",
+    "amount_user": 9300,
+    "amount_provider": 0,
+    "margin": 9300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T08:08:10.723Z",
+    "success_at": "2026-01-20T08:08:10.723Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001385850",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "AXIS",
+    "phone_number": "+62 838 3818 9835",
+    "otp": "605935",
+    "amount_user": 7600,
+    "amount_provider": 0,
+    "margin": 7600,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T08:40:03.843Z",
+    "success_at": "2026-01-20T08:40:03.843Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001387346",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Xl Axiata",
+    "phone_number": "+62 857 2054 2989",
+    "otp": "600513",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T09:32:37.853Z",
+    "success_at": "2026-01-20T09:32:37.853Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001397526",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 4737 3905",
+    "otp": "639225",
+    "amount_user": 7800,
+    "amount_provider": 0,
+    "margin": 7800,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T13:34:20.644Z",
+    "success_at": "2026-01-20T13:34:20.644Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001397865",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Canada",
+    "operator": "any",
+    "phone_number": "+1 365 819 6882",
+    "otp": "114083",
+    "amount_user": 6750,
+    "amount_provider": 0,
+    "margin": 6750,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T13:39:40.531Z",
+    "success_at": "2026-01-20T13:39:40.531Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001402338",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 6492 5177",
+    "otp": "727753",
+    "amount_user": 7550,
+    "amount_provider": 0,
+    "margin": 7550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-20T17:34:35.613Z",
+    "success_at": "2026-01-20T17:34:35.613Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001411734",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 858 0409 2864",
+    "otp": "421078",
+    "amount_user": 12050,
+    "amount_provider": 0,
+    "margin": 12050,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21T06:16:30.458Z",
+    "success_at": "2026-01-21T06:16:30.458Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001423834",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Colombia",
+    "operator": "Movistar",
+    "phone_number": "+57 304 5257565",
+    "otp": "658130",
+    "amount_user": 8300,
+    "amount_provider": 0,
+    "margin": 8300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21T10:33:13.634Z",
+    "success_at": "2026-01-21T10:33:13.634Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001423834",
+    "user": {
+      "id": 8581576050,
+      "name": "Shgit",
+      "username": "Sgtmccx"
+    },
+    "service": "WhatsApp",
+    "country": "Colombia",
+    "operator": "Movistar",
+    "phone_number": "+57 304 5257565",
+    "otp": "658130",
+    "amount_user": 8300,
+    "amount_provider": 0,
+    "margin": 8300,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21T10:33:13.877Z",
+    "success_at": "2026-01-21T10:33:13.877Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001432353",
+    "user": {
+      "id": 1665591593,
+      "name": "DANZEL T.",
+      "username": "Auyeon"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Telkom",
+    "phone_number": "+62 853 5335 5159",
+    "otp": "285860",
+    "amount_user": 3550,
+    "amount_provider": 0,
+    "margin": 3550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21T14:53:12.968Z",
+    "success_at": "2026-01-21T14:53:12.968Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001433389",
+    "user": {
+      "id": 1665591593,
+      "name": "DANZEL T.",
+      "username": "Auyeon"
+    },
+    "service": "WhatsApp",
+    "country": "Indonesia",
+    "operator": "Telkom",
+    "phone_number": "+62 851 8797 4926",
+    "otp": "478996",
+    "amount_user": 3550,
+    "amount_provider": 0,
+    "margin": 3550,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-21T15:40:45.603Z",
+    "success_at": "2026-01-21T15:40:45.603Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  },
+  {
+    "type": "buy_nokos",
+    "trx_id": "RO0001441814",
+    "user": {
+      "id": 7380120614,
+      "name": "BUKAN ADMIN WTB!",
+      "username": "dampieng"
+    },
+    "service": "DANA",
+    "country": "Indonesia",
+    "operator": "any",
+    "phone_number": "+62 851 3675 0747",
+    "otp": "6223",
+    "amount_user": 2900,
+    "amount_provider": 0,
+    "margin": 2900,
+    "method": "SALDO",
+    "provider": "RumahOTP",
+    "status": "success",
+    "created_at": "2026-01-22T07:19:59.596Z",
+    "success_at": "2026-01-22T07:19:59.596Z",
+    "source": "buy",
+    "meta": {
+      "note": "OTP berhasil diterima",
+      "bot": "@rajaotpoffc_bot"
+    }
+  }
+]
